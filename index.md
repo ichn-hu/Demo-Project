@@ -74,7 +74,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 |                             ISSUE                              |                       CHALLENGE                        | PRIORITY |        ASSIGNEE         |                          PR                          | HINT |
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-------------------------|------------------------------------------------------|------|
 | [#22735](https://github.com/pingcap/tidb/issues/22735)&#x2757; |                                                        | critical |                         |                                                      |      |
-| [#22894](https://github.com/pingcap/tidb/issues/22894)         |                                                        | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
+| [#22894](https://github.com/pingcap/tidb/issues/22894)         |                                                        | major    | <sub>@guo-shaoge</sub>  | [#22938](https://github.com/pingcap/tidb/pull/22938) |      |
 | [#22839](https://github.com/pingcap/tidb/issues/22839)         |                                                        | major    | @AilinKid               | [#22869](https://github.com/pingcap/tidb/pull/22869) |      |
 | [#22818](https://github.com/pingcap/tidb/issues/22818)         |                                                        | major    |                         | [#22830](https://github.com/pingcap/tidb/pull/22830) |      |
 | [#22791](https://github.com/pingcap/tidb/issues/22791)&#x2757; |                                                        | major    |                         |                                                      |      |
@@ -205,6 +205,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-02-25T07:16:34-00:00
+updated at 2021-02-25T08:19:41-00:00
 
 

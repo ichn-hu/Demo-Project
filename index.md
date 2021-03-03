@@ -79,7 +79,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 |                             ISSUE                              |                       CHALLENGE                        | PRIORITY |        ASSIGNEE         |                          PR                          | HINT |
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-------------------------|------------------------------------------------------|------|
-| [#23038](https://github.com/pingcap/tidb/issues/23038)         |                                                        | critical | <sub>@guo-shaoge</sub>  | [#23055](https://github.com/pingcap/tidb/pull/23055) |      |
+| [#23038](https://github.com/pingcap/tidb/issues/23038)         |                                                        | critical | <sub>@guo-shaoge</sub>  | [#23079](https://github.com/pingcap/tidb/pull/23079) |      |
 | [#22735](https://github.com/pingcap/tidb/issues/22735)&#x2757; |                                                        | critical |                         |                                                      |      |
 | [#23060](https://github.com/pingcap/tidb/issues/23060)&#x2757; |                                                        | major    |                         |                                                      |      |
 | [#23036](https://github.com/pingcap/tidb/issues/23036)&#x2757; |                                                        | major    |                         |                                                      |      |
@@ -202,6 +202,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-03T09:13:24-00:00
+updated at 2021-03-03T10:19:51-00:00
 
 

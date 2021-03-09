@@ -74,7 +74,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 |                             ISSUE                              |                       CHALLENGE                        | PRIORITY |        ASSIGNEE         |                          PR                          | HINT |
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-------------------------|------------------------------------------------------|------|
-| [#23157](https://github.com/pingcap/tidb/issues/23157)         |                                                        | critical |                         | [#23170](https://github.com/pingcap/tidb/pull/23170) |      |
 | [#23144](https://github.com/pingcap/tidb/issues/23144)         |                                                        | critical | <sub>@TszKitLo40</sub>  |                                                      |      |
 | [#23125](https://github.com/pingcap/tidb/issues/23125)         |                                                        | critical | @XuHuaiyu               |                                                      |      |
 | [#22949](https://github.com/pingcap/tidb/issues/22949)         |                                                        | critical | <sub>@guo-shaoge</sub>  |                                                      |      |
@@ -95,6 +94,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#21584](https://github.com/pingcap/tidb/issues/21584)&#x2757; |                                                        | major    |                         |                                                      |      |
 | [#21509](https://github.com/pingcap/tidb/issues/21509)         |                                                        | major    |                         | [#21641](https://github.com/pingcap/tidb/pull/21641) |      |
 | [#19025](https://github.com/pingcap/tidb/issues/19025)         |                                                        | major    | <sub>@SunRunAway</sub>  | [#19029](https://github.com/pingcap/tidb/pull/19029) |      |
+| [#23198](https://github.com/pingcap/tidb/issues/23198)&#x2757; |                                                        | moderate |                         |                                                      |      |
 | [#23159](https://github.com/pingcap/tidb/issues/23159)         |                                                        | moderate |                         | [#23206](https://github.com/pingcap/tidb/pull/23206) |      |
 | [#23110](https://github.com/pingcap/tidb/issues/23110)         |                                                        | moderate | @jyz0309                |                                                      |      |
 | [#23101](https://github.com/pingcap/tidb/issues/23101)&#x2757; |                                                        | moderate |                         |                                                      |      |
@@ -148,7 +148,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#23195](https://github.com/pingcap/tidb/issues/23195)         |           | critical |                          | [#9769](https://github.com/tikv/tikv/pull/9769)      |      |
 | [#23193](https://github.com/pingcap/tidb/issues/23193)         |           | critical |                          | [#23194](https://github.com/pingcap/tidb/pull/23194) |      |
 | [#23179](https://github.com/pingcap/tidb/issues/23179)         |           | critical | @lysu                    | [#23188](https://github.com/pingcap/tidb/pull/23188) |      |
-| [#23178](https://github.com/pingcap/tidb/issues/23178)         |           | critical | @tangenta                |                                                      |      |
+| [#23178](https://github.com/pingcap/tidb/issues/23178)         |           | critical | @tangenta                | [#23218](https://github.com/pingcap/tidb/pull/23218) |      |
 | [#23106](https://github.com/pingcap/tidb/issues/23106)         |           | critical | @tangenta                | [#23096](https://github.com/pingcap/tidb/pull/23096) |      |
 | [#23182](https://github.com/pingcap/tidb/issues/23182)         |           | major    | @lysu                    | [#23185](https://github.com/pingcap/tidb/pull/23185) |      |
 | [#23015](https://github.com/pingcap/tidb/issues/23015)&#x2757; |           | major    |                          |                                                      |      |
@@ -213,6 +213,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-09T12:21:05-00:00
+updated at 2021-03-09T13:20:21-00:00
 
 

@@ -19,9 +19,8 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 |                             ISSUE                              |                       CHALLENGE                        | PRIORITY |                ASSIGNEE                 |                          PR                          | HINT |
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-----------------------------------------|------------------------------------------------------|------|
-| [#23309](https://github.com/pingcap/tidb/issues/23309)         |                                                        | critical | @qw4990                                 |                                                      |      |
+| [#23309](https://github.com/pingcap/tidb/issues/23309)         |                                                        | critical | @qw4990                                 | [#23457](https://github.com/pingcap/tidb/pull/23457) |      |
 | [#23273](https://github.com/pingcap/tidb/issues/23273)         |                                                        | critical | <sub><sup>@time-and-fate</sup></sub>    | [#23404](https://github.com/pingcap/tidb/pull/23404) |      |
-| [#21884](https://github.com/pingcap/tidb/issues/21884)         |                                                        | critical | @winoros                                | [#23455](https://github.com/pingcap/tidb/pull/23455) |      |
 | [#23068](https://github.com/pingcap/tidb/issues/23068)&#x2757; |                                                        | major    |                                         |                                                      |      |
 | [#23030](https://github.com/pingcap/tidb/issues/23030)         |                                                        | major    | <sub>@Reminiscent</sub>                 | [#23246](https://github.com/pingcap/tidb/pull/23246) |      |
 | [#22892](https://github.com/pingcap/tidb/issues/22892)         |                                                        | major    |                                         | [#22914](https://github.com/pingcap/tidb/pull/22914) |      |
@@ -53,6 +52,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#10151](https://github.com/pingcap/tidb/issues/10151)         | &#x2B50; picked</br>Mentor: @lzmhhh123</br>Score: 300  | moderate | <sub>@wjhuang2016</sub>                 |                                                      |      |
 | [#9373](https://github.com/pingcap/tidb/issues/9373)           |                                                        | moderate | @morgo                                  |                                                      |      |
 | [#8190](https://github.com/pingcap/tidb/issues/8190)           | &#x2B50; picked                                        | moderate | <sub><sup>@xuyifangreeneyes</sup></sub> |                                                      |      |
+| [#23459](https://github.com/pingcap/tidb/issues/23459)&#x2757; |                                                        | minor    |                                         |                                                      |      |
 | [#23396](https://github.com/pingcap/tidb/issues/23396)&#x2757; |                                                        | minor    |                                         |                                                      |      |
 | [#23391](https://github.com/pingcap/tidb/issues/23391)&#x2757; |                                                        | minor    |                                         |                                                      |      |
 | [#22934](https://github.com/pingcap/tidb/issues/22934)&#x2757; |                                                        | minor    |                                         |                                                      |      |
@@ -203,6 +203,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-22T11:17:26-00:00
+updated at 2021-03-22T12:22:27-00:00
 
 

@@ -19,6 +19,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 |                             ISSUE                              |                       CHALLENGE                        | PRIORITY |                ASSIGNEE                 |                          PR                          | HINT |
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-----------------------------------------|------------------------------------------------------|------|
+| [#23570](https://github.com/pingcap/tidb/issues/23570)&#x2757; |                                                        | critical |                                         |                                                      |      |
 | [#23511](https://github.com/pingcap/tidb/issues/23511)         |                                                        | critical | <sub>@Reminiscent</sub>                 | [#23523](https://github.com/pingcap/tidb/pull/23523) |      |
 | [#23567](https://github.com/pingcap/tidb/issues/23567)&#x2757; |                                                        | major    |                                         |                                                      |      |
 | [#23506](https://github.com/pingcap/tidb/issues/23506)         |                                                        | major    | <sub>@xiongjiwei</sub>                  |                                                      |      |
@@ -29,6 +30,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#22388](https://github.com/pingcap/tidb/issues/22388)         |                                                        | major    | @rebelice                               |                                                      |      |
 | [#22301](https://github.com/pingcap/tidb/issues/22301)         |                                                        | major    | <sub><sup>@xuyifangreeneyes</sup></sub> |                                                      |      |
 | [#21677](https://github.com/pingcap/tidb/issues/21677)         |                                                        | major    | <sub><sup>@xuyifangreeneyes</sup></sub> |                                                      |      |
+| [#23539](https://github.com/pingcap/tidb/issues/23539)&#x2757; |                                                        | moderate |                                         |                                                      |      |
 | [#22852](https://github.com/pingcap/tidb/issues/22852)         |                                                        | moderate |                                         | [#22853](https://github.com/pingcap/tidb/pull/22853) |      |
 | [#22694](https://github.com/pingcap/tidb/issues/22694)         |                                                        | moderate | <sub><sup>@xuyifangreeneyes</sup></sub> | [#22722](https://github.com/pingcap/tidb/pull/22722) |      |
 | [#22096](https://github.com/pingcap/tidb/issues/22096)&#x2757; |                                                        | moderate |                                         |                                                      |      |
@@ -62,8 +64,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#16473](https://github.com/pingcap/tidb/issues/16473)         |                                                        | minor    | @winoros                                |                                                      |      |
 | [#15514](https://github.com/pingcap/tidb/issues/15514)&#x2757; | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                                         |                                                      |      |
 | [#11977](https://github.com/pingcap/tidb/issues/11977)&#x2757; | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                                         |                                                      |      |
-| [#23539](https://github.com/pingcap/tidb/issues/23539)&#x2757; |                                                        |          |                                         |                                                      |      |
-| [#23570](https://github.com/pingcap/tidb/issues/23570)&#x2757; |                                                        |          |                                         |                                                      |      |
 | [#23582](https://github.com/pingcap/tidb/issues/23582)&#x2757; |                                                        |          |                                         |                                                      |      |
 
 
@@ -142,40 +142,38 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 <h2 name="sig/transaction">sig/transaction</h2>
 
-|                             ISSUE                              | CHALLENGE | PRIORITY |         ASSIGNEE         |                          PR                          | HINT |
-|----------------------------------------------------------------|-----------|----------|--------------------------|------------------------------------------------------|------|
-| [#22927](https://github.com/pingcap/tidb/issues/22927)&#x2757; |           | critical |                          |                                                      |      |
-| [#23482](https://github.com/pingcap/tidb/issues/23482)         |           | major    | @lysu                    | [#23491](https://github.com/pingcap/tidb/pull/23491) |      |
-| [#23331](https://github.com/pingcap/tidb/issues/23331)         |           | major    | @cfzjywxk                | [#23342](https://github.com/pingcap/tidb/pull/23342) |      |
-| [#22658](https://github.com/pingcap/tidb/issues/22658)&#x2757; |           | major    |                          |                                                      |      |
-| [#22400](https://github.com/pingcap/tidb/issues/22400)         |           | major    | <sub>@youjiali1995</sub> | [#22449](https://github.com/pingcap/tidb/pull/22449) |      |
-| [#21655](https://github.com/pingcap/tidb/issues/21655)&#x2757; |           | major    |                          |                                                      |      |
-| [#21618](https://github.com/pingcap/tidb/issues/21618)         |           | major    |                          | [#21641](https://github.com/pingcap/tidb/pull/21641) |      |
-| [#20028](https://github.com/pingcap/tidb/issues/20028)         |           | major    | <sub>@tiancaiamao</sub>  | [#21148](https://github.com/pingcap/tidb/pull/21148) |      |
-| [#10657](https://github.com/pingcap/tidb/issues/10657)         |           | major    | @nolouch                 |                                                      |      |
-| [#9762](https://github.com/pingcap/tidb/issues/9762)&#x2757;   |           | major    |                          |                                                      |      |
-| [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; |           | moderate |                          |                                                      |      |
-| [#22393](https://github.com/pingcap/tidb/issues/22393)&#x2757; |           | moderate |                          |                                                      |      |
-| [#22356](https://github.com/pingcap/tidb/issues/22356)&#x2757; |           | moderate |                          |                                                      |      |
-| [#22244](https://github.com/pingcap/tidb/issues/22244)&#x2757; |           | moderate |                          |                                                      |      |
-| [#21688](https://github.com/pingcap/tidb/issues/21688)         |           | moderate | @you06                   | [#21878](https://github.com/pingcap/tidb/pull/21878) |      |
-| [#21506](https://github.com/pingcap/tidb/issues/21506)         |           | moderate | @cfzjywxk                |                                                      |      |
-| [#21355](https://github.com/pingcap/tidb/issues/21355)&#x2757; |           | moderate |                          |                                                      |      |
-| [#20990](https://github.com/pingcap/tidb/issues/20990)&#x2757; |           | moderate |                          |                                                      |      |
-| [#18048](https://github.com/pingcap/tidb/issues/18048)         |           | moderate | @qw4990                  |                                                      |      |
-| [#17798](https://github.com/pingcap/tidb/issues/17798)&#x2757; |           | moderate |                          |                                                      |      |
-| [#17797](https://github.com/pingcap/tidb/issues/17797)&#x2757; |           | moderate |                          |                                                      |      |
-| [#13958](https://github.com/pingcap/tidb/issues/13958)         |           | moderate | @fzhedu                  |                                                      |      |
-| [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; |           | minor    |                          |                                                      |      |
-| [#23235](https://github.com/pingcap/tidb/issues/23235)         |           | minor    | @tangenta                |                                                      |      |
-| [#23180](https://github.com/pingcap/tidb/issues/23180)&#x2757; |           | minor    |                          |                                                      |      |
-| [#23015](https://github.com/pingcap/tidb/issues/23015)&#x2757; |           | minor    |                          |                                                      |      |
-| [#22783](https://github.com/pingcap/tidb/issues/22783)&#x2757; |           | minor    |                          |                                                      |      |
-| [#22516](https://github.com/pingcap/tidb/issues/22516)&#x2757; |           | minor    |                          |                                                      |      |
-| [#22345](https://github.com/pingcap/tidb/issues/22345)         |           | minor    | @lysu                    | [#22372](https://github.com/pingcap/tidb/pull/22372) |      |
-| [#21335](https://github.com/pingcap/tidb/issues/21335)         |           | minor    | @you06                   | [#22146](https://github.com/pingcap/tidb/pull/22146) |      |
-| [#20949](https://github.com/pingcap/tidb/issues/20949)&#x2757; |           | minor    |                          |                                                      |      |
-| [#14914](https://github.com/pingcap/tidb/issues/14914)         |           | minor    | <sub>@tiancaiamao</sub>  |                                                      |      |
+|                             ISSUE                              | CHALLENGE | PRIORITY |        ASSIGNEE         |                          PR                          | HINT |
+|----------------------------------------------------------------|-----------|----------|-------------------------|------------------------------------------------------|------|
+| [#22927](https://github.com/pingcap/tidb/issues/22927)&#x2757; |           | critical |                         |                                                      |      |
+| [#23331](https://github.com/pingcap/tidb/issues/23331)         |           | major    | @cfzjywxk               | [#23342](https://github.com/pingcap/tidb/pull/23342) |      |
+| [#22658](https://github.com/pingcap/tidb/issues/22658)&#x2757; |           | major    |                         |                                                      |      |
+| [#21655](https://github.com/pingcap/tidb/issues/21655)&#x2757; |           | major    |                         |                                                      |      |
+| [#21618](https://github.com/pingcap/tidb/issues/21618)         |           | major    |                         | [#21641](https://github.com/pingcap/tidb/pull/21641) |      |
+| [#20028](https://github.com/pingcap/tidb/issues/20028)         |           | major    | <sub>@tiancaiamao</sub> | [#21148](https://github.com/pingcap/tidb/pull/21148) |      |
+| [#10657](https://github.com/pingcap/tidb/issues/10657)         |           | major    | @nolouch                |                                                      |      |
+| [#9762](https://github.com/pingcap/tidb/issues/9762)&#x2757;   |           | major    |                         |                                                      |      |
+| [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; |           | moderate |                         |                                                      |      |
+| [#22393](https://github.com/pingcap/tidb/issues/22393)&#x2757; |           | moderate |                         |                                                      |      |
+| [#22356](https://github.com/pingcap/tidb/issues/22356)&#x2757; |           | moderate |                         |                                                      |      |
+| [#22244](https://github.com/pingcap/tidb/issues/22244)&#x2757; |           | moderate |                         |                                                      |      |
+| [#21688](https://github.com/pingcap/tidb/issues/21688)         |           | moderate | @you06                  | [#21878](https://github.com/pingcap/tidb/pull/21878) |      |
+| [#21506](https://github.com/pingcap/tidb/issues/21506)         |           | moderate | @cfzjywxk               |                                                      |      |
+| [#21355](https://github.com/pingcap/tidb/issues/21355)&#x2757; |           | moderate |                         |                                                      |      |
+| [#20990](https://github.com/pingcap/tidb/issues/20990)&#x2757; |           | moderate |                         |                                                      |      |
+| [#18048](https://github.com/pingcap/tidb/issues/18048)         |           | moderate | @qw4990                 |                                                      |      |
+| [#17798](https://github.com/pingcap/tidb/issues/17798)&#x2757; |           | moderate |                         |                                                      |      |
+| [#17797](https://github.com/pingcap/tidb/issues/17797)&#x2757; |           | moderate |                         |                                                      |      |
+| [#13958](https://github.com/pingcap/tidb/issues/13958)         |           | moderate | @fzhedu                 |                                                      |      |
+| [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; |           | minor    |                         |                                                      |      |
+| [#23235](https://github.com/pingcap/tidb/issues/23235)         |           | minor    | @tangenta               |                                                      |      |
+| [#23180](https://github.com/pingcap/tidb/issues/23180)&#x2757; |           | minor    |                         |                                                      |      |
+| [#23015](https://github.com/pingcap/tidb/issues/23015)&#x2757; |           | minor    |                         |                                                      |      |
+| [#22783](https://github.com/pingcap/tidb/issues/22783)&#x2757; |           | minor    |                         |                                                      |      |
+| [#22516](https://github.com/pingcap/tidb/issues/22516)&#x2757; |           | minor    |                         |                                                      |      |
+| [#22345](https://github.com/pingcap/tidb/issues/22345)         |           | minor    | @lysu                   | [#22372](https://github.com/pingcap/tidb/pull/22372) |      |
+| [#21335](https://github.com/pingcap/tidb/issues/21335)         |           | minor    | @you06                  | [#22146](https://github.com/pingcap/tidb/pull/22146) |      |
+| [#20949](https://github.com/pingcap/tidb/issues/20949)&#x2757; |           | minor    |                         |                                                      |      |
+| [#14914](https://github.com/pingcap/tidb/issues/14914)         |           | minor    | <sub>@tiancaiamao</sub> |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -212,6 +210,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-26T11:05:08-00:00
+updated at 2021-03-26T12:06:30-00:00
 
 

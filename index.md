@@ -62,6 +62,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23567](https://github.com/pingcap/tidb/issues/23567)         | major    | @winoros                                |                                                      |      |
 | [#23570](https://github.com/pingcap/tidb/issues/23570)         | critical | @qw4990                                 |                                                      |      |
 | [#23582](https://github.com/pingcap/tidb/issues/23582)&#x2757; | moderate |                                         |                                                      |      |
+| [#23606](https://github.com/pingcap/tidb/issues/23606)         | major    | @cfzjywxk                               |                                                      |      |
+| [#23625](https://github.com/pingcap/tidb/issues/23625)&#x2757; |          |                                         |                                                      |      |
+| [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | critical |                                         |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -136,8 +139,11 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23531](https://github.com/pingcap/tidb/issues/23531)&#x2757; | moderate |                                      |                                                      |      |
 | [#23563](https://github.com/pingcap/tidb/issues/23563)         | minor    | <sub>@TszKitLo40</sub>               |                                                      |      |
 | [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu                            |                                                      |      |
-| [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @XuHuaiyu                            |                                                      |      |
-| [#23623](https://github.com/pingcap/tidb/issues/23623)&#x2757; | critical |                                      |                                                      |      |
+| [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @ichn-hu                             |                                                      |      |
+| [#23623](https://github.com/pingcap/tidb/issues/23623)         | critical | <sub>@guo-shaoge</sub>               |                                                      |      |
+| [#23653](https://github.com/pingcap/tidb/issues/23653)&#x2757; |          |                                      |                                                      |      |
+| [#23657](https://github.com/pingcap/tidb/issues/23657)&#x2757; | critical |                                      |                                                      |      |
+| [#23663](https://github.com/pingcap/tidb/issues/23663)&#x2757; |          |                                      |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -174,7 +180,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23331](https://github.com/pingcap/tidb/issues/23331)         | major    | @cfzjywxk               | [#23342](https://github.com/pingcap/tidb/pull/23342) |      |
 | [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; | moderate |                         |                                                      |      |
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                         |                                                      |      |
-| [#23606](https://github.com/pingcap/tidb/issues/23606)         | critical | @cfzjywxk               |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -211,6 +216,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-30T06:06:02-00:00
+updated at 2021-03-30T07:08:32-00:00
 
 

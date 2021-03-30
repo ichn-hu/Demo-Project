@@ -63,7 +63,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23567](https://github.com/pingcap/tidb/issues/23567)         | major    | @winoros                                |                                                      |      |
 | [#23570](https://github.com/pingcap/tidb/issues/23570)&#x2757; | critical |                                         |                                                      |      |
 | [#23582](https://github.com/pingcap/tidb/issues/23582)&#x2757; | moderate |                                         |                                                      |      |
-| [#23601](https://github.com/pingcap/tidb/issues/23601)         | critical | <sub>@Reminiscent</sub>                 |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -213,6 +212,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-30T02:23:38-00:00
+updated at 2021-03-30T03:09:31-00:00
 
 

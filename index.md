@@ -139,7 +139,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23563](https://github.com/pingcap/tidb/issues/23563)         | minor    | <sub>@TszKitLo40</sub>               | [#23764](https://github.com/pingcap/tidb/pull/23764) |      |
 | [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu                            |                                                      |      |
 | [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @ichn-hu                             |                                                      |      |
-| [#23693](https://github.com/pingcap/tidb/issues/23693)         | critical | <sub>@wjhuang2016</sub>              | [#23770](https://github.com/pingcap/tidb/pull/23770) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -177,7 +176,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                         |                                                      |      |
 | [#23799](https://github.com/pingcap/tidb/issues/23799)&#x2757; | minor    |                         |                                                      |      |
 | [#23805](https://github.com/pingcap/tidb/issues/23805)         | major    | <sub>@wjhuang2016</sub> | [#23806](https://github.com/pingcap/tidb/pull/23806) |      |
-| [#23809](https://github.com/pingcap/tidb/issues/23809)&#x2757; |          |                         |                                                      |      |
+| [#23809](https://github.com/pingcap/tidb/issues/23809)         | critical | @lysu                   | [#23814](https://github.com/pingcap/tidb/pull/23814) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -214,6 +213,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-01T13:11:57-00:00
+updated at 2021-04-01T14:05:37-00:00
 
 

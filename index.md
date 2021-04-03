@@ -64,7 +64,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23633](https://github.com/pingcap/tidb/issues/23633)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23665](https://github.com/pingcap/tidb/issues/23665)&#x2757; | critical |                                                                     |                                                      |      |
-| [#23839](https://github.com/pingcap/tidb/issues/23839)&#x2757; | major    |                                                                     |                                                      |      |
+| [#23839](https://github.com/pingcap/tidb/issues/23839)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -212,6 +212,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-03T05:09:14-00:00
+updated at 2021-04-03T06:05:58-00:00
 
 

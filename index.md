@@ -62,6 +62,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23633](https://github.com/pingcap/tidb/issues/23633)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23665](https://github.com/pingcap/tidb/issues/23665)&#x2757; | critical |                                                                     |                                                      |      |
+| [#23947](https://github.com/pingcap/tidb/issues/23947)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -104,7 +105,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#22394](https://github.com/pingcap/tidb/issues/22394)         | moderate |                                      | [#22407](https://github.com/pingcap/tidb/pull/22407) |      |
 | [#22399](https://github.com/pingcap/tidb/issues/22399)&#x2757; | minor    |                                      |                                                      |      |
 | [#22423](https://github.com/pingcap/tidb/issues/22423)&#x2757; | minor    |                                      |                                                      |      |
-| [#22477](https://github.com/pingcap/tidb/issues/22477)&#x2757; | minor    |                                      |                                                      |      |
 | [#22525](https://github.com/pingcap/tidb/issues/22525)&#x2757; | major    |                                      |                                                      |      |
 | [#22592](https://github.com/pingcap/tidb/issues/22592)&#x2757; | major    |                                      |                                                      |      |
 | [#22598](https://github.com/pingcap/tidb/issues/22598)&#x2757; | moderate |                                      |                                                      |      |
@@ -223,6 +223,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-12T04:07:24-00:00
+updated at 2021-04-12T05:09:40-00:00
 
 

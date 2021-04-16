@@ -176,7 +176,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                         |                                                      |      |
 | [#23797](https://github.com/pingcap/tidb/issues/23797)         | major    | @tangenta               |                                                      |      |
 | [#23799](https://github.com/pingcap/tidb/issues/23799)&#x2757; | minor    |                         |                                                      |      |
-| [#24009](https://github.com/pingcap/tidb/issues/24009)         | major    | @cfzjywxk               |                                                      |      |
+| [#24009](https://github.com/pingcap/tidb/issues/24009)         | major    | @cfzjywxk               | [#24082](https://github.com/pingcap/tidb/pull/24082) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -213,6 +213,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-16T07:06:49-00:00
+updated at 2021-04-16T08:05:07-00:00
 
 

@@ -68,6 +68,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24045](https://github.com/pingcap/tidb/issues/24045)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24057](https://github.com/pingcap/tidb/issues/24057)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24095](https://github.com/pingcap/tidb/issues/24095)         | major    | @mmyj                                                               | [#24102](https://github.com/pingcap/tidb/pull/24102) |      |
+| [#24171](https://github.com/pingcap/tidb/issues/24171)         |          | @rebelice                                                           |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -179,7 +180,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23542](https://github.com/pingcap/tidb/issues/23542)         | minor    |                         | [#24140](https://github.com/pingcap/tidb/pull/24140) |      |
 | [#23797](https://github.com/pingcap/tidb/issues/23797)         | major    | @tangenta               |                                                      |      |
 | [#23799](https://github.com/pingcap/tidb/issues/23799)&#x2757; | minor    |                         |                                                      |      |
-| [#24009](https://github.com/pingcap/tidb/issues/24009)         | major    | @cfzjywxk               | [#24082](https://github.com/pingcap/tidb/pull/24082) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -216,6 +216,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-20T08:06:11-00:00
+updated at 2021-04-20T09:04:46-00:00
 
 

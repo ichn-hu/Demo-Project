@@ -144,6 +144,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24129](https://github.com/pingcap/tidb/issues/24129)&#x2757; | major    |                         |                                                      |      |
 | [#24134](https://github.com/pingcap/tidb/issues/24134)&#x2757; | moderate |                         |                                                      |      |
 | [#24205](https://github.com/pingcap/tidb/issues/24205)&#x2757; | major    |                         |                                                      |      |
+| [#24210](https://github.com/pingcap/tidb/issues/24210)&#x2757; |          |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -217,6 +218,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-22T13:12:56-00:00
+updated at 2021-04-22T14:05:06-00:00
 
 

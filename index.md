@@ -36,7 +36,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#19713](https://github.com/pingcap/tidb/issues/19713)         | minor    | @winoros                                                            |                                                      |      |
 | [#19802](https://github.com/pingcap/tidb/issues/19802)&#x2757; | minor    |                                                                     |                                                      |      |
 | [#20019](https://github.com/pingcap/tidb/issues/20019)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#20372](https://github.com/pingcap/tidb/issues/20372)         | critical | @rebelice                                                           | [#24313](https://github.com/pingcap/tidb/pull/24313) |      |
 | [#21098](https://github.com/pingcap/tidb/issues/21098)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#21454](https://github.com/pingcap/tidb/issues/21454)&#x2757; | minor    |                                                                     |                                                      |      |
 | [#21475](https://github.com/pingcap/tidb/issues/21475)&#x2757; | moderate |                                                                     |                                                      |      |
@@ -150,7 +149,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24129](https://github.com/pingcap/tidb/issues/24129)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
 | [#24134](https://github.com/pingcap/tidb/issues/24134)&#x2757; | moderate |                         |                                                      |      |
 | [#24205](https://github.com/pingcap/tidb/issues/24205)         | major    | @wshwsh12               |                                                      |      |
-| [#24262](https://github.com/pingcap/tidb/issues/24262)         | critical | @lzmhhh123              |                                                      |      |
 | [#24271](https://github.com/pingcap/tidb/issues/24271)&#x2757; | minor    |                         |                                                      |      |
 | [#24284](https://github.com/pingcap/tidb/issues/24284)&#x2757; | major    |                         |                                                      |      |
 | [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                         |                                                      |      |
@@ -189,7 +187,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; | moderate |                         |                                                      |      |
 | [#23542](https://github.com/pingcap/tidb/issues/23542)         | minor    |                         | [#24140](https://github.com/pingcap/tidb/pull/24140) |      |
 | [#23797](https://github.com/pingcap/tidb/issues/23797)         | major    | @tangenta               |                                                      |      |
-| [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; |          |                         |                                                      |      |
+| [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; | major    |                         |                                                      |      |
 | [#24209](https://github.com/pingcap/tidb/issues/24209)         | major    | @tangenta               |                                                      |      |
 
 
@@ -227,6 +225,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-29T06:18:00-00:00
+updated at 2021-04-29T07:16:37-00:00
 
 

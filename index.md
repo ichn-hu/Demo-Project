@@ -73,6 +73,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24324](https://github.com/pingcap/tidb/issues/24324)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24325](https://github.com/pingcap/tidb/issues/24325)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24356](https://github.com/pingcap/tidb/issues/24356)&#x2757; | critical |                                                                     |                                                      |      |
+| [#24401](https://github.com/pingcap/tidb/issues/24401)         |          | @rebelice                                                           |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -186,7 +187,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23797](https://github.com/pingcap/tidb/issues/23797)         | major    | @tangenta               |                                                      |      |
 | [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; | major    |                         |                                                      |      |
 | [#24209](https://github.com/pingcap/tidb/issues/24209)         | major    | @tangenta               |                                                      |      |
-| [#24398](https://github.com/pingcap/tidb/issues/24398)&#x2757; |          |                         |                                                      |      |
+| [#24398](https://github.com/pingcap/tidb/issues/24398)         |          |                         | [#24403](https://github.com/pingcap/tidb/pull/24403) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -223,6 +224,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-30T09:15:24-00:00
+updated at 2021-04-30T10:16:49-00:00
 
 

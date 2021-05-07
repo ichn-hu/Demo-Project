@@ -196,7 +196,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23542](https://github.com/pingcap/tidb/issues/23542)         | minor    |                         | [#24140](https://github.com/pingcap/tidb/pull/24140) |      |
 | [#23797](https://github.com/pingcap/tidb/issues/23797)         | major    | @tangenta               |                                                      |      |
 | [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; | major    |                         |                                                      |      |
-| [#24209](https://github.com/pingcap/tidb/issues/24209)         | major    | @tangenta               | [#24436](https://github.com/pingcap/tidb/pull/24436) |      |
 | [#24398](https://github.com/pingcap/tidb/issues/24398)         |          |                         | [#24403](https://github.com/pingcap/tidb/pull/24403) |      |
 
 
@@ -234,6 +233,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-07T12:17:51-00:00
+updated at 2021-05-07T13:23:29-00:00
 
 

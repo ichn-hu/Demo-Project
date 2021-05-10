@@ -78,6 +78,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24452](https://github.com/pingcap/tidb/issues/24452)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24473](https://github.com/pingcap/tidb/issues/24473)&#x2757; | critical |                                                                     |                                                      |      |
 | [#24477](https://github.com/pingcap/tidb/issues/24477)         | critical | @sylzd                                                              |                                                      |      |
+| [#24526](https://github.com/pingcap/tidb/issues/24526)         | major    | @winoros                                                            |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -157,6 +158,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                         |                                                      |      |
 | [#24387](https://github.com/pingcap/tidb/issues/24387)&#x2757; | moderate |                         |                                                      |      |
 | [#24421](https://github.com/pingcap/tidb/issues/24421)&#x2757; | major    |                         |                                                      |      |
+| [#24530](https://github.com/pingcap/tidb/issues/24530)&#x2757; | critical |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -229,6 +231,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-10T12:19:01-00:00
+updated at 2021-05-10T13:23:17-00:00
 
 

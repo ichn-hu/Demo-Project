@@ -80,6 +80,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24571](https://github.com/pingcap/tidb/issues/24571)         | moderate | <sub>@xiongjiwei</sub>                                              | [#24614](https://github.com/pingcap/tidb/pull/24614) |      |
 | [#24594](https://github.com/pingcap/tidb/issues/24594)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24622](https://github.com/pingcap/tidb/issues/24622)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#24631](https://github.com/pingcap/tidb/issues/24631)         |          | @qw4990                                                             |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -165,7 +166,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24561](https://github.com/pingcap/tidb/issues/24561)&#x2757; | major    |                         |                                                      |      |
 | [#24562](https://github.com/pingcap/tidb/issues/24562)         | major    | @lzmhhh123              | [#24618](https://github.com/pingcap/tidb/pull/24618) |      |
 | [#24567](https://github.com/pingcap/tidb/issues/24567)&#x2757; | major    |                         |                                                      |      |
-| [#24576](https://github.com/pingcap/tidb/issues/24576)         | major    | @wshwsh12               |                                                      |      |
+| [#24576](https://github.com/pingcap/tidb/issues/24576)         | major    | @wshwsh12               | [#24632](https://github.com/pingcap/tidb/pull/24632) |      |
 | [#24610](https://github.com/pingcap/tidb/issues/24610)         | major    | @wshwsh12               |                                                      |      |
 
 
@@ -242,6 +243,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-13T10:16:14-00:00
+updated at 2021-05-13T11:13:54-00:00
 
 

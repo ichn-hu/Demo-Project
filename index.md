@@ -166,7 +166,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24567](https://github.com/pingcap/tidb/issues/24567)&#x2757; | major    |                         |                                                      |      |
 | [#24576](https://github.com/pingcap/tidb/issues/24576)         | major    | @wshwsh12               |                                                      |      |
 | [#24587](https://github.com/pingcap/tidb/issues/24587)&#x2757; | critical |                         |                                                      |      |
-| [#24610](https://github.com/pingcap/tidb/issues/24610)&#x2757; | major    |                         |                                                      |      |
+| [#24610](https://github.com/pingcap/tidb/issues/24610)         | major    | @wshwsh12               |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -242,6 +242,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-13T06:17:50-00:00
+updated at 2021-05-13T07:20:45-00:00
 
 

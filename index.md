@@ -215,7 +215,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; | major    |                         |                                                      |      |
 | [#24586](https://github.com/pingcap/tidb/issues/24586)&#x2757; | major    |                         |                                                      |      |
 | [#24589](https://github.com/pingcap/tidb/issues/24589)&#x2757; | moderate |                         |                                                      |      |
-| [#24774](https://github.com/pingcap/tidb/issues/24774)         | major    | <sub>@MyonKeminta</sub> |                                                      |      |
+| [#24774](https://github.com/pingcap/tidb/issues/24774)         | major    | <sub>@MyonKeminta</sub> | [#24779](https://github.com/pingcap/tidb/pull/24779) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -252,6 +252,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-20T04:23:39-00:00
+updated at 2021-05-20T05:23:48-00:00
 
 

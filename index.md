@@ -159,12 +159,12 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                         |                                                      |      |
 | [#24387](https://github.com/pingcap/tidb/issues/24387)&#x2757; | moderate |                         |                                                      |      |
 | [#24502](https://github.com/pingcap/tidb/issues/24502)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
-| [#24543](https://github.com/pingcap/tidb/issues/24543)         | major    | @wshwsh12               |                                                      |      |
+| [#24543](https://github.com/pingcap/tidb/issues/24543)         | major    | @wshwsh12               | [#24830](https://github.com/pingcap/tidb/pull/24830) |      |
 | [#24567](https://github.com/pingcap/tidb/issues/24567)&#x2757; | major    |                         |                                                      |      |
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | moderate |                         |                                                      |      |
 | [#24636](https://github.com/pingcap/tidb/issues/24636)         | critical | @mjonss                 |                                                      |      |
 | [#24690](https://github.com/pingcap/tidb/issues/24690)         | minor    |                         | [#24691](https://github.com/pingcap/tidb/pull/24691) |      |
-| [#24706](https://github.com/pingcap/tidb/issues/24706)         | major    | @lysu                   |                                                      |      |
+| [#24706](https://github.com/pingcap/tidb/issues/24706)         | major    | @lysu                   | [#24828](https://github.com/pingcap/tidb/pull/24828) |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)&#x2757; | moderate |                         |                                                      |      |
 | [#24741](https://github.com/pingcap/tidb/issues/24741)         | critical | @cfzjywxk               |                                                      |      |
 | [#24746](https://github.com/pingcap/tidb/issues/24746)         | critical | @mjonss                 |                                                      |      |
@@ -246,6 +246,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-21T08:18:27-00:00
+updated at 2021-05-21T09:16:14-00:00
 
 

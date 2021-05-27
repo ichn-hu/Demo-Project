@@ -84,7 +84,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           | [#24793](https://github.com/pingcap/tidb/pull/24793) |      |
 | [#24853](https://github.com/pingcap/tidb/issues/24853)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24855](https://github.com/pingcap/tidb/issues/24855)         | critical | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
-| [#24865](https://github.com/pingcap/tidb/issues/24865)         | critical | @eurekaka                                                           |                                                      |      |
+| [#24865](https://github.com/pingcap/tidb/issues/24865)         | critical | @eurekaka                                                           | [#24937](https://github.com/pingcap/tidb/pull/24937) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -250,6 +250,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-27T11:34:02-00:00
+updated at 2021-05-27T12:34:11-00:00
 
 

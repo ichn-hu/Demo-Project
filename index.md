@@ -82,7 +82,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24679](https://github.com/pingcap/tidb/issues/24679)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24722](https://github.com/pingcap/tidb/issues/24722)         | moderate | @eurekaka                                                           | [#24753](https://github.com/pingcap/tidb/pull/24753) |      |
 | [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           | [#24793](https://github.com/pingcap/tidb/pull/24793) |      |
-| [#24853](https://github.com/pingcap/tidb/issues/24853)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#24853](https://github.com/pingcap/tidb/issues/24853)         | moderate | @eurekaka                                                           |                                                      |      |
 | [#24855](https://github.com/pingcap/tidb/issues/24855)         | critical | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#24865](https://github.com/pingcap/tidb/issues/24865)         | critical | @eurekaka                                                           | [#24937](https://github.com/pingcap/tidb/pull/24937) |      |
 
@@ -172,7 +172,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24819](https://github.com/pingcap/tidb/issues/24819)&#x2757; | major    |                         |                                                      |      |
 | [#24868](https://github.com/pingcap/tidb/issues/24868)&#x2757; | major    |                         |                                                      |      |
 | [#24888](https://github.com/pingcap/tidb/issues/24888)         | minor    |                         | [#24889](https://github.com/pingcap/tidb/pull/24889) |      |
-| [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | critical |                         |                                                      |      |
+| [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                         |                                                      |      |
 | [#24930](https://github.com/pingcap/tidb/issues/24930)         | critical | @qw4990                 | [#24935](https://github.com/pingcap/tidb/pull/24935) |      |
 | [#24933](https://github.com/pingcap/tidb/issues/24933)&#x2757; | critical |                         |                                                      |      |
 
@@ -252,6 +252,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-28T01:07:25-00:00
+updated at 2021-05-28T04:07:41-00:00
 
 

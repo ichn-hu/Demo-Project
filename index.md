@@ -182,7 +182,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24951](https://github.com/pingcap/tidb/issues/24951)&#x2757; | moderate |                         |                                                      |      |
 | [#24953](https://github.com/pingcap/tidb/issues/24953)&#x2757; | moderate |                         |                                                      |      |
 | [#24955](https://github.com/pingcap/tidb/issues/24955)&#x2757; | moderate |                         |                                                      |      |
-| [#24967](https://github.com/pingcap/tidb/issues/24967)&#x2757; |          |                         |                                                      |      |
+| [#24967](https://github.com/pingcap/tidb/issues/24967)&#x2757; | major    |                         |                                                      |      |
 | [#24969](https://github.com/pingcap/tidb/issues/24969)&#x2757; |          |                         |                                                      |      |
 | [#24970](https://github.com/pingcap/tidb/issues/24970)&#x2757; |          |                         |                                                      |      |
 | [#24972](https://github.com/pingcap/tidb/issues/24972)&#x2757; |          |                         |                                                      |      |
@@ -263,6 +263,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-30T23:33:57-00:00
+updated at 2021-05-31T01:40:27-00:00
 
 

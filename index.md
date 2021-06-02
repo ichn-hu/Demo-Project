@@ -60,6 +60,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23907](https://github.com/pingcap/tidb/issues/23907)&#x2757; | major    |                                                                     |                                                      |      |
 | [#23965](https://github.com/pingcap/tidb/issues/23965)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24010](https://github.com/pingcap/tidb/issues/24010)         | moderate | @rebelice                                                           |                                                      |      |
+| [#24012](https://github.com/pingcap/tidb/issues/24012)         | major    | @qw4990</br>@rebelice                                               |                                                      |      |
 | [#24013](https://github.com/pingcap/tidb/issues/24013)         | moderate | @rebelice                                                           |                                                      |      |
 | [#24014](https://github.com/pingcap/tidb/issues/24014)         | moderate | @rebelice                                                           |                                                      |      |
 | [#24015](https://github.com/pingcap/tidb/issues/24015)         | moderate | @rebelice                                                           |                                                      |      |
@@ -270,6 +271,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-02T11:21:20-00:00
+updated at 2021-06-02T13:00:17-00:00
 
 

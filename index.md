@@ -95,7 +95,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25086](https://github.com/pingcap/tidb/issues/25086)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25144](https://github.com/pingcap/tidb/issues/25144)         | major    | @rebelice                                                           |                                                      |      |
 | [#25151](https://github.com/pingcap/tidb/issues/25151)&#x2757; | minor    |                                                                     |                                                      |      |
-| [#25161](https://github.com/pingcap/tidb/issues/25161)         | critical | @rebelice                                                           | [#25168](https://github.com/pingcap/tidb/pull/25168) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -280,6 +279,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-04T14:21:12-00:00
+updated at 2021-06-04T15:43:41-00:00
 
 

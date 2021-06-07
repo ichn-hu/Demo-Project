@@ -190,10 +190,10 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                          |                                                      |      |
 | [#25059](https://github.com/pingcap/tidb/issues/25059)&#x2757; | major    |                          |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)&#x2757; | major    |                          |                                                      |      |
-| [#25072](https://github.com/pingcap/tidb/issues/25072)         | major    | @bb7133                  |                                                      |      |
+| [#25072](https://github.com/pingcap/tidb/issues/25072)         | major    | @wshwsh12                |                                                      |      |
 | [#25093](https://github.com/pingcap/tidb/issues/25093)         | major    | @sylzd                   |                                                      |      |
 | [#25167](https://github.com/pingcap/tidb/issues/25167)&#x2757; | moderate |                          |                                                      |      |
-| [#25169](https://github.com/pingcap/tidb/issues/25169)         | major    | @bb7133                  |                                                      |      |
+| [#25169](https://github.com/pingcap/tidb/issues/25169)         | major    | @wshwsh12                |                                                      |      |
 | [#25193](https://github.com/pingcap/tidb/issues/25193)&#x2757; | moderate |                          |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                          |                                                      |      |
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                          |                                                      |      |
@@ -282,6 +282,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-07T13:11:44-00:00
+updated at 2021-06-07T14:43:45-00:00
 
 

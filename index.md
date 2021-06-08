@@ -94,7 +94,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25086](https://github.com/pingcap/tidb/issues/25086)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25144](https://github.com/pingcap/tidb/issues/25144)         | major    | @rebelice                                                           |                                                      |      |
 | [#25151](https://github.com/pingcap/tidb/issues/25151)&#x2757; | minor    |                                                                     |                                                      |      |
-| [#25219](https://github.com/pingcap/tidb/issues/25219)         |          | @lzmhhh123</br>@winoros                                             |                                                      |      |
+| [#25219](https://github.com/pingcap/tidb/issues/25219)         | critical | @lzmhhh123</br>@winoros                                             |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -199,6 +199,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                          |                                                      |      |
 | [#25200](https://github.com/pingcap/tidb/issues/25200)         | critical | @ichn-hu                 |                                                      |      |
 | [#25202](https://github.com/pingcap/tidb/issues/25202)         | critical | @lzmhhh123               |                                                      |      |
+| [#25217](https://github.com/pingcap/tidb/issues/25217)&#x2757; | critical |                          |                                                      |      |
 | [#25220](https://github.com/pingcap/tidb/issues/25220)         | major    | @wshwsh12                |                                                      |      |
 
 
@@ -282,6 +283,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-08T02:55:09-00:00
+updated at 2021-06-08T04:01:46-00:00
 
 

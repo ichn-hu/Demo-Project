@@ -201,7 +201,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                                      |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
 | [#25093](https://github.com/pingcap/tidb/issues/25093)         | major    | @sylzd                               |                                                      |      |
-| [#25167](https://github.com/pingcap/tidb/issues/25167)         | moderate |                                      | [#25346](https://github.com/pingcap/tidb/pull/25346) |      |
 | [#25193](https://github.com/pingcap/tidb/issues/25193)&#x2757; | moderate |                                      |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                                      |                                                      |      |
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                                      |                                                      |      |
@@ -212,10 +211,10 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25257](https://github.com/pingcap/tidb/issues/25257)         | critical | @tangenta                            | [#25357](https://github.com/pingcap/tidb/pull/25357) |      |
 | [#25270](https://github.com/pingcap/tidb/issues/25270)&#x2757; |          |                                      |                                                      |      |
 | [#25300](https://github.com/pingcap/tidb/issues/25300)         | major    | @wshwsh12</br><sub>@xiongjiwei</sub> | [#25338](https://github.com/pingcap/tidb/pull/25338) |      |
-| [#25309](https://github.com/pingcap/tidb/issues/25309)         | critical | @qw4990                              |                                                      |      |
+| [#25309](https://github.com/pingcap/tidb/issues/25309)         | critical | @qw4990</br>@rebelice                |                                                      |      |
 | [#25333](https://github.com/pingcap/tidb/issues/25333)         | moderate | @Howie59                             |                                                      |      |
 | [#25352](https://github.com/pingcap/tidb/issues/25352)&#x2757; | major    |                                      |                                                      |      |
-| [#25393](https://github.com/pingcap/tidb/issues/25393)&#x2757; | major    |                                      |                                                      |      |
+| [#25393](https://github.com/pingcap/tidb/issues/25393)         | major    | @lysu                                | [#25405](https://github.com/pingcap/tidb/pull/25405) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -262,7 +261,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25029](https://github.com/pingcap/tidb/issues/25029)&#x2757; | minor    |                         |                                                      |      |
 | [#25176](https://github.com/pingcap/tidb/issues/25176)&#x2757; | moderate |                         |                                                      |      |
 | [#25284](https://github.com/pingcap/tidb/issues/25284)&#x2757; | major    |                         |                                                      |      |
-| [#25377](https://github.com/pingcap/tidb/issues/25377)&#x2757; | major    |                         |                                                      |      |
+| [#25377](https://github.com/pingcap/tidb/issues/25377)         | major    | @lysu                   |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -299,6 +298,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-15T03:18:31-00:00
+updated at 2021-06-15T04:16:17-00:00
 
 

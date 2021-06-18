@@ -210,7 +210,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25497](https://github.com/pingcap/tidb/issues/25497)&#x2757; | moderate |                                      |                                                      |      |
 | [#25506](https://github.com/pingcap/tidb/issues/25506)&#x2757; | moderate |                                      |                                                      |      |
 | [#25526](https://github.com/pingcap/tidb/issues/25526)&#x2757; | moderate |                                      |                                                      |      |
-| [#25528](https://github.com/pingcap/tidb/issues/25528)         | major    | <sub>@tiancaiamao</sub>              | [#25537](https://github.com/pingcap/tidb/pull/25537) |      |
 | [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                                      |                                                      |      |
 
 
@@ -293,6 +292,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-18T04:15:36-00:00
+updated at 2021-06-18T05:16:02-00:00
 
 

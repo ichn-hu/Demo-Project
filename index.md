@@ -105,6 +105,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25490](https://github.com/pingcap/tidb/issues/25490)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25505](https://github.com/pingcap/tidb/issues/25505)         | major    |                                                                     | [#25583](https://github.com/pingcap/tidb/pull/25583) |      |
 | [#25539](https://github.com/pingcap/tidb/issues/25539)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#25540](https://github.com/pingcap/tidb/issues/25540)&#x2757; | moderate |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -213,6 +214,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25526](https://github.com/pingcap/tidb/issues/25526)&#x2757; | moderate |                                      |                                                      |      |
 | [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                                      |                                                      |      |
 | [#25546](https://github.com/pingcap/tidb/issues/25546)&#x2757; | moderate |                                      |                                                      |      |
+| [#25584](https://github.com/pingcap/tidb/issues/25584)&#x2757; | major    |                                      |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -293,6 +295,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T00:40:42-00:00
+updated at 2021-06-21T02:10:44-00:00
 
 

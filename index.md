@@ -106,6 +106,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25505](https://github.com/pingcap/tidb/issues/25505)         | major    |                                                                     | [#25583](https://github.com/pingcap/tidb/pull/25583) |      |
 | [#25539](https://github.com/pingcap/tidb/issues/25539)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25540](https://github.com/pingcap/tidb/issues/25540)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#25598](https://github.com/pingcap/tidb/issues/25598)&#x2757; | critical |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -224,8 +225,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#10657](https://github.com/pingcap/tidb/issues/10657)         | major    | @nolouch                |                                                      |      |
 | [#13958](https://github.com/pingcap/tidb/issues/13958)         | moderate | @fzhedu                 |                                                      |      |
 | [#14914](https://github.com/pingcap/tidb/issues/14914)         | minor    | <sub>@tiancaiamao</sub> |                                                      |      |
-| [#17797](https://github.com/pingcap/tidb/issues/17797)&#x2757; | moderate |                         |                                                      |      |
-| [#17798](https://github.com/pingcap/tidb/issues/17798)&#x2757; | moderate |                         |                                                      |      |
 | [#18048](https://github.com/pingcap/tidb/issues/18048)         | moderate | @qw4990                 |                                                      |      |
 | [#20028](https://github.com/pingcap/tidb/issues/20028)         | major    | <sub>@tiancaiamao</sub> | [#21148](https://github.com/pingcap/tidb/pull/21148) |      |
 | [#20949](https://github.com/pingcap/tidb/issues/20949)&#x2757; | minor    |                         |                                                      |      |
@@ -294,6 +293,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T06:15:49-00:00
+updated at 2021-06-21T07:30:28-00:00
 
 

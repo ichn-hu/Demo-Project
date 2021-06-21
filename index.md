@@ -216,7 +216,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                                      |                                                      |      |
 | [#25546](https://github.com/pingcap/tidb/issues/25546)&#x2757; | moderate |                                      |                                                      |      |
 | [#25584](https://github.com/pingcap/tidb/issues/25584)&#x2757; | major    |                                      |                                                      |      |
-| [#25591](https://github.com/pingcap/tidb/issues/25591)&#x2757; | critical |                                      |                                                      |      |
+| [#25591](https://github.com/pingcap/tidb/issues/25591)         | critical | <sub>@guo-shaoge</sub>               |                                                      |      |
 | [#25607](https://github.com/pingcap/tidb/issues/25607)&#x2757; | major    |                                      |                                                      |      |
 
 
@@ -296,6 +296,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T13:24:35-00:00
+updated at 2021-06-21T14:13:07-00:00
 
 

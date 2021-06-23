@@ -59,7 +59,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23633](https://github.com/pingcap/tidb/issues/23633)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23907](https://github.com/pingcap/tidb/issues/23907)&#x2757; | major    |                                                                     |                                                      |      |
 | [#23965](https://github.com/pingcap/tidb/issues/23965)         | moderate | @eurekaka                                                           | [#25214](https://github.com/pingcap/tidb/pull/25214) |      |
-| [#24010](https://github.com/pingcap/tidb/issues/24010)         | moderate | @qw4990</br>@rebelice                                               | [#25487](https://github.com/pingcap/tidb/pull/25487) |      |
 | [#24012](https://github.com/pingcap/tidb/issues/24012)         | moderate | @qw4990</br>@rebelice                                               |                                                      |      |
 | [#24013](https://github.com/pingcap/tidb/issues/24013)         | moderate | @rebelice                                                           |                                                      |      |
 | [#24014](https://github.com/pingcap/tidb/issues/24014)         | moderate | @rebelice                                                           |                                                      |      |
@@ -79,7 +78,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24594](https://github.com/pingcap/tidb/issues/24594)         | major    | @winoros                                                            |                                                      |      |
 | [#24622](https://github.com/pingcap/tidb/issues/24622)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24667](https://github.com/pingcap/tidb/issues/24667)         | moderate | <sub><sup>@time-and-fate</sup></sub>                                | [#24669](https://github.com/pingcap/tidb/pull/24669) |      |
-| [#24679](https://github.com/pingcap/tidb/issues/24679)         | moderate | @rebelice                                                           | [#25487](https://github.com/pingcap/tidb/pull/25487) |      |
 | [#24722](https://github.com/pingcap/tidb/issues/24722)         | moderate | @eurekaka                                                           | [#24753](https://github.com/pingcap/tidb/pull/24753) |      |
 | [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           | [#24793](https://github.com/pingcap/tidb/pull/24793) |      |
 | [#24855](https://github.com/pingcap/tidb/issues/24855)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
@@ -191,7 +189,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24284](https://github.com/pingcap/tidb/issues/24284)&#x2757; | minor    |                                      |                                                      |      |
 | [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                                      |                                                      |      |
 | [#24387](https://github.com/pingcap/tidb/issues/24387)&#x2757; | moderate |                                      |                                                      |      |
-| [#24502](https://github.com/pingcap/tidb/issues/24502)         | major    | <sub>@xiongjiwei</sub>               | [#25141](https://github.com/pingcap/tidb/pull/25141) |      |
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                                      |                                                      |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)&#x2757; | moderate |                                      |                                                      |      |
 | [#24756](https://github.com/pingcap/tidb/issues/24756)         |          | @XuHuaiyu                            |                                                      |      |
@@ -209,7 +206,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                                      |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
 | [#25093](https://github.com/pingcap/tidb/issues/25093)         | major    | @sylzd                               | [#25612](https://github.com/pingcap/tidb/pull/25612) |      |
-| [#25103](https://github.com/pingcap/tidb/issues/25103)&#x2757; | major    |                                      |                                                      |      |
+| [#25103](https://github.com/pingcap/tidb/issues/25103)         | major    | @wshwsh12                            |                                                      |      |
 | [#25193](https://github.com/pingcap/tidb/issues/25193)&#x2757; | moderate |                                      |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                                      |                                                      |      |
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                                      |                                                      |      |
@@ -311,6 +308,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-23T07:10:58-00:00
+updated at 2021-06-23T08:13:21-00:00
 
 

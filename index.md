@@ -130,106 +130,105 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 <h2 name="sig/execution">sig/execution</h2>
 
-|                             ISSUE                              | PRIORITY |               ASSIGNEE               |                          PR                          | HINT |
-|----------------------------------------------------------------|----------|--------------------------------------|------------------------------------------------------|------|
-| [#8205](https://github.com/pingcap/tidb/issues/8205)&#x2757;   | minor    |                                      |                                                      |      |
-| [#11866](https://github.com/pingcap/tidb/issues/11866)         | moderate | @dragonly                            |                                                      |      |
-| [#11932](https://github.com/pingcap/tidb/issues/11932)&#x2757; | moderate |                                      |                                                      |      |
-| [#13018](https://github.com/pingcap/tidb/issues/13018)         | minor    | @qw4990                              |                                                      |      |
-| [#13136](https://github.com/pingcap/tidb/issues/13136)&#x2757; | moderate |                                      |                                                      |      |
-| [#13157](https://github.com/pingcap/tidb/issues/13157)         | moderate | <sub>@wjhuang2016</sub>              |                                                      |      |
-| [#13440](https://github.com/pingcap/tidb/issues/13440)         | minor    | <sub>@SunRunAway</sub>               |                                                      |      |
-| [#14399](https://github.com/pingcap/tidb/issues/14399)&#x2757; | moderate |                                      |                                                      |      |
-| [#15234](https://github.com/pingcap/tidb/issues/15234)         | moderate |                                      | [#20015](https://github.com/pingcap/tidb/pull/20015) |      |
-| [#15608](https://github.com/pingcap/tidb/issues/15608)         | moderate | @ichn-hu                             |                                                      |      |
-| [#15884](https://github.com/pingcap/tidb/issues/15884)&#x2757; | moderate |                                      |                                                      |      |
-| [#17083](https://github.com/pingcap/tidb/issues/17083)         | moderate | @mmyj</br>@qw4990                    |                                                      |      |
-| [#17489](https://github.com/pingcap/tidb/issues/17489)&#x2757; | minor    |                                      |                                                      |      |
-| [#17677](https://github.com/pingcap/tidb/issues/17677)         | moderate | @qw4990                              |                                                      |      |
-| [#17751](https://github.com/pingcap/tidb/issues/17751)&#x2757; | minor    |                                      |                                                      |      |
-| [#17832](https://github.com/pingcap/tidb/issues/17832)         | minor    | @qw4990                              |                                                      |      |
-| [#17993](https://github.com/pingcap/tidb/issues/17993)&#x2757; | minor    |                                      |                                                      |      |
-| [#18488](https://github.com/pingcap/tidb/issues/18488)         | moderate | @morgo                               |                                                      |      |
-| [#18493](https://github.com/pingcap/tidb/issues/18493)         | minor    | @fzhedu                              |                                                      |      |
-| [#19025](https://github.com/pingcap/tidb/issues/19025)         | moderate | <sub>@SunRunAway</sub>               |                                                      |      |
-| [#20411](https://github.com/pingcap/tidb/issues/20411)         | moderate | @qw4990                              |                                                      |      |
-| [#20563](https://github.com/pingcap/tidb/issues/20563)         | moderate | <sub>@wjhuang2016</sub>              | [#1129](https://github.com/pingcap/parser/pull/1129) |      |
-| [#21307](https://github.com/pingcap/tidb/issues/21307)&#x2757; | minor    |                                      |                                                      |      |
-| [#21584](https://github.com/pingcap/tidb/issues/21584)&#x2757; | major    |                                      |                                                      |      |
-| [#21653](https://github.com/pingcap/tidb/issues/21653)         | moderate |                                      | [#21230](https://github.com/pingcap/tidb/pull/21230) |      |
-| [#21787](https://github.com/pingcap/tidb/issues/21787)&#x2757; | minor    |                                      |                                                      |      |
-| [#22088](https://github.com/pingcap/tidb/issues/22088)&#x2757; | moderate |                                      |                                                      |      |
-| [#22132](https://github.com/pingcap/tidb/issues/22132)         | major    | @wshwsh12                            | [#22347](https://github.com/pingcap/tidb/pull/22347) |      |
-| [#22206](https://github.com/pingcap/tidb/issues/22206)         | moderate |                                      | [#22616](https://github.com/pingcap/tidb/pull/22616) |      |
-| [#22227](https://github.com/pingcap/tidb/issues/22227)&#x2757; | minor    |                                      |                                                      |      |
-| [#22386](https://github.com/pingcap/tidb/issues/22386)&#x2757; | moderate |                                      |                                                      |      |
-| [#22394](https://github.com/pingcap/tidb/issues/22394)         | moderate |                                      | [#22407](https://github.com/pingcap/tidb/pull/22407) |      |
-| [#22399](https://github.com/pingcap/tidb/issues/22399)&#x2757; | minor    |                                      |                                                      |      |
-| [#22423](https://github.com/pingcap/tidb/issues/22423)&#x2757; | minor    |                                      |                                                      |      |
-| [#22525](https://github.com/pingcap/tidb/issues/22525)         | major    | @lzmhhh123                           |                                                      |      |
-| [#22592](https://github.com/pingcap/tidb/issues/22592)&#x2757; | major    |                                      |                                                      |      |
-| [#22598](https://github.com/pingcap/tidb/issues/22598)&#x2757; | moderate |                                      |                                                      |      |
-| [#22604](https://github.com/pingcap/tidb/issues/22604)&#x2757; | major    |                                      |                                                      |      |
-| [#22665](https://github.com/pingcap/tidb/issues/22665)         | major    |                                      | [#22666](https://github.com/pingcap/tidb/pull/22666) |      |
-| [#22735](https://github.com/pingcap/tidb/issues/22735)&#x2757; | critical |                                      |                                                      |      |
-| [#22749](https://github.com/pingcap/tidb/issues/22749)&#x2757; | minor    |                                      |                                                      |      |
-| [#22791](https://github.com/pingcap/tidb/issues/22791)         | major    | @johan-j                             | [#22823](https://github.com/pingcap/tidb/pull/22823) |      |
-| [#23101](https://github.com/pingcap/tidb/issues/23101)&#x2757; | moderate |                                      |                                                      |      |
-| [#23110](https://github.com/pingcap/tidb/issues/23110)         | moderate | @jyz0309                             |                                                      |      |
-| [#23159](https://github.com/pingcap/tidb/issues/23159)         | moderate |                                      | [#23206](https://github.com/pingcap/tidb/pull/23206) |      |
-| [#23344](https://github.com/pingcap/tidb/issues/23344)&#x2757; | moderate |                                      |                                                      |      |
-| [#23366](https://github.com/pingcap/tidb/issues/23366)         | minor    | @wshwsh12                            |                                                      |      |
-| [#23387](https://github.com/pingcap/tidb/issues/23387)         | major    | <sub>@tiancaiamao</sub>              | [#23403](https://github.com/pingcap/tidb/pull/23403) |      |
-| [#23411](https://github.com/pingcap/tidb/issues/23411)&#x2757; | moderate |                                      |                                                      |      |
-| [#23501](https://github.com/pingcap/tidb/issues/23501)&#x2757; | moderate |                                      |                                                      |      |
-| [#23508](https://github.com/pingcap/tidb/issues/23508)         | major    | <sub>@wjhuang2016</sub>              | [#23559](https://github.com/pingcap/tidb/pull/23559) |      |
-| [#23512](https://github.com/pingcap/tidb/issues/23512)&#x2757; | moderate |                                      |                                                      |      |
-| [#23531](https://github.com/pingcap/tidb/issues/23531)&#x2757; | moderate |                                      |                                                      |      |
-| [#23552](https://github.com/pingcap/tidb/issues/23552)&#x2757; | moderate |                                      |                                                      |      |
-| [#23630](https://github.com/pingcap/tidb/issues/23630)         | major    | @ichn-hu                             |                                                      |      |
-| [#23865](https://github.com/pingcap/tidb/issues/23865)         | moderate | @xhebox                              |                                                      |      |
-| [#23869](https://github.com/pingcap/tidb/issues/23869)         | moderate | @ichn-hu                             |                                                      |      |
-| [#23898](https://github.com/pingcap/tidb/issues/23898)         | major    | @lzmhhh123                           |                                                      |      |
-| [#23952](https://github.com/pingcap/tidb/issues/23952)&#x2757; | moderate |                                      |                                                      |      |
-| [#24044](https://github.com/pingcap/tidb/issues/24044)         | minor    | @zoomxi                              |                                                      |      |
-| [#24134](https://github.com/pingcap/tidb/issues/24134)&#x2757; | moderate |                                      |                                                      |      |
-| [#24227](https://github.com/pingcap/tidb/issues/24227)&#x2757; | moderate |                                      |                                                      |      |
-| [#24271](https://github.com/pingcap/tidb/issues/24271)&#x2757; | minor    |                                      |                                                      |      |
-| [#24284](https://github.com/pingcap/tidb/issues/24284)&#x2757; | minor    |                                      |                                                      |      |
-| [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                                      |                                                      |      |
-| [#24387](https://github.com/pingcap/tidb/issues/24387)         | moderate | @wzru                                |                                                      |      |
-| [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                                      |                                                      |      |
-| [#24725](https://github.com/pingcap/tidb/issues/24725)         | moderate | @wzru                                |                                                      |      |
-| [#24756](https://github.com/pingcap/tidb/issues/24756)         |          | @XuHuaiyu                            |                                                      |      |
-| [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123                           | [#25647](https://github.com/pingcap/tidb/pull/25647) |      |
-| [#24868](https://github.com/pingcap/tidb/issues/24868)         | major    | @wshwsh12                            | [#25906](https://github.com/pingcap/tidb/pull/25906) |      |
-| [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                                      |                                                      |      |
-| [#24928](https://github.com/pingcap/tidb/issues/24928)&#x2757; | moderate |                                      |                                                      |      |
-| [#24949](https://github.com/pingcap/tidb/issues/24949)         | major    | @ichn-hu                             |                                                      |      |
-| [#24953](https://github.com/pingcap/tidb/issues/24953)         | moderate | @sylzd                               |                                                      |      |
-| [#24969](https://github.com/pingcap/tidb/issues/24969)&#x2757; | moderate |                                      |                                                      |      |
-| [#24997](https://github.com/pingcap/tidb/issues/24997)         |          | @XuHuaiyu                            |                                                      |      |
-| [#25053](https://github.com/pingcap/tidb/issues/25053)         | moderate | @wzru                                |                                                      |      |
-| [#25193](https://github.com/pingcap/tidb/issues/25193)         | moderate | @wzru                                |                                                      |      |
-| [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                                      |                                                      |      |
-| [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                                      |                                                      |      |
-| [#25217](https://github.com/pingcap/tidb/issues/25217)         | moderate | @jyz0309                             |                                                      |      |
-| [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                                      |                                                      |      |
-| [#25243](https://github.com/pingcap/tidb/issues/25243)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
-| [#25300](https://github.com/pingcap/tidb/issues/25300)         | major    | @wshwsh12</br><sub>@xiongjiwei</sub> | [#25338](https://github.com/pingcap/tidb/pull/25338) |      |
-| [#25333](https://github.com/pingcap/tidb/issues/25333)&#x2757; | moderate |                                      |                                                      |      |
-| [#25482](https://github.com/pingcap/tidb/issues/25482)         | moderate | @xhebox                              |                                                      |      |
-| [#25497](https://github.com/pingcap/tidb/issues/25497)&#x2757; | moderate |                                      |                                                      |      |
-| [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                                      |                                                      |      |
-| [#25645](https://github.com/pingcap/tidb/issues/25645)&#x2757; | moderate |                                      |                                                      |      |
-| [#25726](https://github.com/pingcap/tidb/issues/25726)&#x2757; | minor    |                                      |                                                      |      |
-| [#25734](https://github.com/pingcap/tidb/issues/25734)         | major    | @lzmhhh123                           |                                                      |      |
-| [#25753](https://github.com/pingcap/tidb/issues/25753)&#x2757; | minor    |                                      |                                                      |      |
-| [#25802](https://github.com/pingcap/tidb/issues/25802)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
-| [#25829](https://github.com/pingcap/tidb/issues/25829)         | moderate |                                      | [#25879](https://github.com/pingcap/tidb/pull/25879) |      |
-| [#25848](https://github.com/pingcap/tidb/issues/25848)&#x2757; | moderate |                                      |                                                      |      |
-| [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                                      | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
-| [#26151](https://github.com/pingcap/tidb/issues/26151)         | moderate |                                      | [#26152](https://github.com/pingcap/tidb/pull/26152) |      |
+|                             ISSUE                              | PRIORITY |        ASSIGNEE         |                          PR                          | HINT |
+|----------------------------------------------------------------|----------|-------------------------|------------------------------------------------------|------|
+| [#8205](https://github.com/pingcap/tidb/issues/8205)&#x2757;   | minor    |                         |                                                      |      |
+| [#11866](https://github.com/pingcap/tidb/issues/11866)         | moderate | @dragonly               |                                                      |      |
+| [#11932](https://github.com/pingcap/tidb/issues/11932)&#x2757; | moderate |                         |                                                      |      |
+| [#13018](https://github.com/pingcap/tidb/issues/13018)         | minor    | @qw4990                 |                                                      |      |
+| [#13136](https://github.com/pingcap/tidb/issues/13136)&#x2757; | moderate |                         |                                                      |      |
+| [#13157](https://github.com/pingcap/tidb/issues/13157)         | moderate | <sub>@wjhuang2016</sub> |                                                      |      |
+| [#13440](https://github.com/pingcap/tidb/issues/13440)         | minor    | <sub>@SunRunAway</sub>  |                                                      |      |
+| [#14399](https://github.com/pingcap/tidb/issues/14399)&#x2757; | moderate |                         |                                                      |      |
+| [#15234](https://github.com/pingcap/tidb/issues/15234)         | moderate |                         | [#20015](https://github.com/pingcap/tidb/pull/20015) |      |
+| [#15608](https://github.com/pingcap/tidb/issues/15608)         | moderate | @ichn-hu                |                                                      |      |
+| [#15884](https://github.com/pingcap/tidb/issues/15884)&#x2757; | moderate |                         |                                                      |      |
+| [#17083](https://github.com/pingcap/tidb/issues/17083)         | moderate | @mmyj</br>@qw4990       |                                                      |      |
+| [#17489](https://github.com/pingcap/tidb/issues/17489)&#x2757; | minor    |                         |                                                      |      |
+| [#17677](https://github.com/pingcap/tidb/issues/17677)         | moderate | @qw4990                 |                                                      |      |
+| [#17751](https://github.com/pingcap/tidb/issues/17751)&#x2757; | minor    |                         |                                                      |      |
+| [#17832](https://github.com/pingcap/tidb/issues/17832)         | minor    | @qw4990                 |                                                      |      |
+| [#17993](https://github.com/pingcap/tidb/issues/17993)&#x2757; | minor    |                         |                                                      |      |
+| [#18488](https://github.com/pingcap/tidb/issues/18488)         | moderate | @morgo                  |                                                      |      |
+| [#18493](https://github.com/pingcap/tidb/issues/18493)         | minor    | @fzhedu                 |                                                      |      |
+| [#19025](https://github.com/pingcap/tidb/issues/19025)         | moderate | <sub>@SunRunAway</sub>  |                                                      |      |
+| [#20411](https://github.com/pingcap/tidb/issues/20411)         | moderate | @qw4990                 |                                                      |      |
+| [#20563](https://github.com/pingcap/tidb/issues/20563)         | moderate | <sub>@wjhuang2016</sub> | [#1129](https://github.com/pingcap/parser/pull/1129) |      |
+| [#21307](https://github.com/pingcap/tidb/issues/21307)&#x2757; | minor    |                         |                                                      |      |
+| [#21584](https://github.com/pingcap/tidb/issues/21584)&#x2757; | major    |                         |                                                      |      |
+| [#21653](https://github.com/pingcap/tidb/issues/21653)         | moderate |                         | [#21230](https://github.com/pingcap/tidb/pull/21230) |      |
+| [#21787](https://github.com/pingcap/tidb/issues/21787)&#x2757; | minor    |                         |                                                      |      |
+| [#22088](https://github.com/pingcap/tidb/issues/22088)&#x2757; | moderate |                         |                                                      |      |
+| [#22132](https://github.com/pingcap/tidb/issues/22132)         | major    | @wshwsh12               | [#22347](https://github.com/pingcap/tidb/pull/22347) |      |
+| [#22206](https://github.com/pingcap/tidb/issues/22206)         | moderate |                         | [#22616](https://github.com/pingcap/tidb/pull/22616) |      |
+| [#22227](https://github.com/pingcap/tidb/issues/22227)&#x2757; | minor    |                         |                                                      |      |
+| [#22386](https://github.com/pingcap/tidb/issues/22386)&#x2757; | moderate |                         |                                                      |      |
+| [#22394](https://github.com/pingcap/tidb/issues/22394)         | moderate |                         | [#22407](https://github.com/pingcap/tidb/pull/22407) |      |
+| [#22399](https://github.com/pingcap/tidb/issues/22399)&#x2757; | minor    |                         |                                                      |      |
+| [#22423](https://github.com/pingcap/tidb/issues/22423)&#x2757; | minor    |                         |                                                      |      |
+| [#22525](https://github.com/pingcap/tidb/issues/22525)         | major    | @lzmhhh123              |                                                      |      |
+| [#22592](https://github.com/pingcap/tidb/issues/22592)&#x2757; | major    |                         |                                                      |      |
+| [#22598](https://github.com/pingcap/tidb/issues/22598)&#x2757; | moderate |                         |                                                      |      |
+| [#22604](https://github.com/pingcap/tidb/issues/22604)&#x2757; | major    |                         |                                                      |      |
+| [#22665](https://github.com/pingcap/tidb/issues/22665)         | major    |                         | [#22666](https://github.com/pingcap/tidb/pull/22666) |      |
+| [#22735](https://github.com/pingcap/tidb/issues/22735)&#x2757; | critical |                         |                                                      |      |
+| [#22749](https://github.com/pingcap/tidb/issues/22749)&#x2757; | minor    |                         |                                                      |      |
+| [#22791](https://github.com/pingcap/tidb/issues/22791)         | major    | @johan-j                | [#22823](https://github.com/pingcap/tidb/pull/22823) |      |
+| [#23101](https://github.com/pingcap/tidb/issues/23101)&#x2757; | moderate |                         |                                                      |      |
+| [#23110](https://github.com/pingcap/tidb/issues/23110)         | moderate | @jyz0309                |                                                      |      |
+| [#23159](https://github.com/pingcap/tidb/issues/23159)         | moderate |                         | [#23206](https://github.com/pingcap/tidb/pull/23206) |      |
+| [#23344](https://github.com/pingcap/tidb/issues/23344)&#x2757; | moderate |                         |                                                      |      |
+| [#23366](https://github.com/pingcap/tidb/issues/23366)         | minor    | @wshwsh12               |                                                      |      |
+| [#23387](https://github.com/pingcap/tidb/issues/23387)         | major    | <sub>@tiancaiamao</sub> | [#23403](https://github.com/pingcap/tidb/pull/23403) |      |
+| [#23411](https://github.com/pingcap/tidb/issues/23411)&#x2757; | moderate |                         |                                                      |      |
+| [#23501](https://github.com/pingcap/tidb/issues/23501)&#x2757; | moderate |                         |                                                      |      |
+| [#23508](https://github.com/pingcap/tidb/issues/23508)         | major    | <sub>@wjhuang2016</sub> | [#23559](https://github.com/pingcap/tidb/pull/23559) |      |
+| [#23512](https://github.com/pingcap/tidb/issues/23512)&#x2757; | moderate |                         |                                                      |      |
+| [#23531](https://github.com/pingcap/tidb/issues/23531)&#x2757; | moderate |                         |                                                      |      |
+| [#23552](https://github.com/pingcap/tidb/issues/23552)&#x2757; | moderate |                         |                                                      |      |
+| [#23630](https://github.com/pingcap/tidb/issues/23630)         | major    | @ichn-hu                |                                                      |      |
+| [#23865](https://github.com/pingcap/tidb/issues/23865)         | moderate | @xhebox                 |                                                      |      |
+| [#23869](https://github.com/pingcap/tidb/issues/23869)         | moderate | @ichn-hu                |                                                      |      |
+| [#23898](https://github.com/pingcap/tidb/issues/23898)         | major    | @lzmhhh123              |                                                      |      |
+| [#23952](https://github.com/pingcap/tidb/issues/23952)&#x2757; | moderate |                         |                                                      |      |
+| [#24044](https://github.com/pingcap/tidb/issues/24044)         | minor    | @zoomxi                 |                                                      |      |
+| [#24134](https://github.com/pingcap/tidb/issues/24134)&#x2757; | moderate |                         |                                                      |      |
+| [#24227](https://github.com/pingcap/tidb/issues/24227)&#x2757; | moderate |                         |                                                      |      |
+| [#24271](https://github.com/pingcap/tidb/issues/24271)&#x2757; | minor    |                         |                                                      |      |
+| [#24284](https://github.com/pingcap/tidb/issues/24284)&#x2757; | minor    |                         |                                                      |      |
+| [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                         |                                                      |      |
+| [#24387](https://github.com/pingcap/tidb/issues/24387)         | moderate | @wzru                   |                                                      |      |
+| [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                         |                                                      |      |
+| [#24725](https://github.com/pingcap/tidb/issues/24725)         | moderate | @wzru                   |                                                      |      |
+| [#24756](https://github.com/pingcap/tidb/issues/24756)         |          | @XuHuaiyu               |                                                      |      |
+| [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123              | [#25647](https://github.com/pingcap/tidb/pull/25647) |      |
+| [#24868](https://github.com/pingcap/tidb/issues/24868)         | major    | @wshwsh12               | [#25906](https://github.com/pingcap/tidb/pull/25906) |      |
+| [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                         |                                                      |      |
+| [#24928](https://github.com/pingcap/tidb/issues/24928)&#x2757; | moderate |                         |                                                      |      |
+| [#24949](https://github.com/pingcap/tidb/issues/24949)         | major    | @ichn-hu                |                                                      |      |
+| [#24953](https://github.com/pingcap/tidb/issues/24953)         | moderate | @sylzd                  |                                                      |      |
+| [#24969](https://github.com/pingcap/tidb/issues/24969)&#x2757; | moderate |                         |                                                      |      |
+| [#24997](https://github.com/pingcap/tidb/issues/24997)         |          | @XuHuaiyu               |                                                      |      |
+| [#25053](https://github.com/pingcap/tidb/issues/25053)         | moderate | @wzru                   |                                                      |      |
+| [#25193](https://github.com/pingcap/tidb/issues/25193)         | moderate | @wzru                   |                                                      |      |
+| [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                         |                                                      |      |
+| [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                         |                                                      |      |
+| [#25217](https://github.com/pingcap/tidb/issues/25217)         | moderate | @jyz0309                |                                                      |      |
+| [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                         |                                                      |      |
+| [#25243](https://github.com/pingcap/tidb/issues/25243)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
+| [#25333](https://github.com/pingcap/tidb/issues/25333)&#x2757; | moderate |                         |                                                      |      |
+| [#25482](https://github.com/pingcap/tidb/issues/25482)         | moderate | @xhebox                 |                                                      |      |
+| [#25497](https://github.com/pingcap/tidb/issues/25497)&#x2757; | moderate |                         |                                                      |      |
+| [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                         |                                                      |      |
+| [#25645](https://github.com/pingcap/tidb/issues/25645)&#x2757; | moderate |                         |                                                      |      |
+| [#25726](https://github.com/pingcap/tidb/issues/25726)&#x2757; | minor    |                         |                                                      |      |
+| [#25734](https://github.com/pingcap/tidb/issues/25734)         | major    | @lzmhhh123              |                                                      |      |
+| [#25753](https://github.com/pingcap/tidb/issues/25753)&#x2757; | minor    |                         |                                                      |      |
+| [#25802](https://github.com/pingcap/tidb/issues/25802)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
+| [#25829](https://github.com/pingcap/tidb/issues/25829)         | moderate |                         | [#25879](https://github.com/pingcap/tidb/pull/25879) |      |
+| [#25848](https://github.com/pingcap/tidb/issues/25848)&#x2757; | moderate |                         |                                                      |      |
+| [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                         | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
+| [#26151](https://github.com/pingcap/tidb/issues/26151)         | moderate |                         | [#26152](https://github.com/pingcap/tidb/pull/26152) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -319,6 +318,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-14T11:11:58-00:00
+updated at 2021-07-14T12:19:15-00:00
 
 

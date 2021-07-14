@@ -124,7 +124,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26166](https://github.com/pingcap/tidb/issues/26166)         | major    | @bb7133</br>@mjonss                                                 |                                                      |      |
 | [#26212](https://github.com/pingcap/tidb/issues/26212)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26214](https://github.com/pingcap/tidb/issues/26214)&#x2757; | major    |                                                                     |                                                      |      |
-| [#26217](https://github.com/pingcap/tidb/issues/26217)&#x2757; | major    |                                                                     |                                                      |      |
+| [#26217](https://github.com/pingcap/tidb/issues/26217)         | major    |                                                                     | [#26233](https://github.com/pingcap/tidb/pull/26233) |      |
 | [#26227](https://github.com/pingcap/tidb/issues/26227)&#x2757; |          |                                                                     |                                                      |      |
 
 
@@ -319,6 +319,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-14T04:15:56-00:00
+updated at 2021-07-14T05:11:45-00:00
 
 

@@ -66,7 +66,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24318](https://github.com/pingcap/tidb/issues/24318)         | major    | @qw4990                                                             |                                                      |      |
 | [#24323](https://github.com/pingcap/tidb/issues/24323)         | minor    | @sylzd                                                              |                                                      |      |
 | [#24324](https://github.com/pingcap/tidb/issues/24324)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
-| [#24449](https://github.com/pingcap/tidb/issues/24449)         | minor    | @zoomxi                                                             | [#24921](https://github.com/pingcap/tidb/pull/24921) |      |
+| [#24449](https://github.com/pingcap/tidb/issues/24449)         | minor    | @zoomxi                                                             |                                                      |      |
 | [#24452](https://github.com/pingcap/tidb/issues/24452)         | moderate | @winoros                                                            |                                                      |      |
 | [#24512](https://github.com/pingcap/tidb/issues/24512)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24526](https://github.com/pingcap/tidb/issues/24526)         | major    | @winoros                                                            |                                                      |      |
@@ -227,7 +227,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25848](https://github.com/pingcap/tidb/issues/25848)&#x2757; | moderate |                         |                                                      |      |
 | [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                         | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
 | [#26151](https://github.com/pingcap/tidb/issues/26151)         | moderate |                         | [#26152](https://github.com/pingcap/tidb/pull/26152) |      |
-| [#26250](https://github.com/pingcap/tidb/issues/26250)         | major    | <sub>@tiancaiamao</sub> | [#26373](https://github.com/pingcap/tidb/pull/26373) |      |
 | [#26348](https://github.com/pingcap/tidb/issues/26348)         | major    |                         | [#26372](https://github.com/pingcap/tidb/pull/26372) |      |
 | [#26358](https://github.com/pingcap/tidb/issues/26358)&#x2757; | major    |                         |                                                      |      |
 
@@ -282,7 +281,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26185](https://github.com/pingcap/tidb/issues/26185)&#x2757; | major    |                                       |                                                      |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
-| [#26251](https://github.com/pingcap/tidb/issues/26251)         | critical | <sub>@tiancaiamao</sub>               |                                                      |      |
+| [#26251](https://github.com/pingcap/tidb/issues/26251)         | critical | <sub>@tiancaiamao</sub>               | [#26380](https://github.com/pingcap/tidb/pull/26380) |      |
 | [#26359](https://github.com/pingcap/tidb/issues/26359)         | critical | @sticnarf                             |                                                      |      |
 
 
@@ -319,6 +318,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-20T09:14:13-00:00
+updated at 2021-07-20T10:14:00-00:00
 
 

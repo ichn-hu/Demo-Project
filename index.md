@@ -287,7 +287,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26185](https://github.com/pingcap/tidb/issues/26185)         | major    | <sub>@longfangsong</sub>              | [#26467](https://github.com/pingcap/tidb/pull/26467) |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
-| [#26359](https://github.com/pingcap/tidb/issues/26359)         | critical | @sticnarf                             | [#10600](https://github.com/tikv/tikv/pull/10600)    |      |
 | [#26404](https://github.com/pingcap/tidb/issues/26404)         | moderate | @cfzjywxk                             |                                                      |      |
 
 
@@ -324,6 +323,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-22T11:11:53-00:00
+updated at 2021-07-22T12:20:06-00:00
 
 

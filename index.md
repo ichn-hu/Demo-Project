@@ -212,7 +212,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25193](https://github.com/pingcap/tidb/issues/25193)         | moderate | @wzru                   |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                         |                                                      |      |
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                         |                                                      |      |
-| [#25217](https://github.com/pingcap/tidb/issues/25217)         | moderate | @jyz0309                |                                                      |      |
+| [#25217](https://github.com/pingcap/tidb/issues/25217)&#x2757; | moderate |                         |                                                      |      |
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                         |                                                      |      |
 | [#25243](https://github.com/pingcap/tidb/issues/25243)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
 | [#25333](https://github.com/pingcap/tidb/issues/25333)&#x2757; | moderate |                         |                                                      |      |
@@ -224,6 +224,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25734](https://github.com/pingcap/tidb/issues/25734)         | major    | @lzmhhh123              |                                                      |      |
 | [#25753](https://github.com/pingcap/tidb/issues/25753)&#x2757; | minor    |                         |                                                      |      |
 | [#25802](https://github.com/pingcap/tidb/issues/25802)         | major    | <sub>@guo-shaoge</sub>  |                                                      |      |
+| [#25813](https://github.com/pingcap/tidb/issues/25813)&#x2757; | major    |                         |                                                      |      |
 | [#25829](https://github.com/pingcap/tidb/issues/25829)         | moderate |                         | [#25879](https://github.com/pingcap/tidb/pull/25879) |      |
 | [#25848](https://github.com/pingcap/tidb/issues/25848)&#x2757; | moderate |                         |                                                      |      |
 | [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                         | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
@@ -272,7 +273,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24195](https://github.com/pingcap/tidb/issues/24195)&#x2757; | major    |                                       |                                                      |      |
 | [#24411](https://github.com/pingcap/tidb/issues/24411)&#x2757; | minor    |                                       |                                                      |      |
 | [#24589](https://github.com/pingcap/tidb/issues/24589)&#x2757; | moderate |                                       |                                                      |      |
-| [#24741](https://github.com/pingcap/tidb/issues/24741)         | critical | @cfzjywxk                             |                                                      |      |
 | [#24858](https://github.com/pingcap/tidb/issues/24858)&#x2757; | minor    |                                       |                                                      |      |
 | [#25003](https://github.com/pingcap/tidb/issues/25003)         | major    | @cfzjywxk                             |                                                      |      |
 | [#25029](https://github.com/pingcap/tidb/issues/25029)&#x2757; | minor    |                                       |                                                      |      |
@@ -324,6 +324,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-22T08:15:27-00:00
+updated at 2021-07-22T09:13:21-00:00
 
 

@@ -121,10 +121,11 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26166](https://github.com/pingcap/tidb/issues/26166)         | major    | @bb7133</br>@mjonss                                                 |                                                      |      |
 | [#26212](https://github.com/pingcap/tidb/issues/26212)         | major    | <sub>@francis0407</sub>                                             | [#26454](https://github.com/pingcap/tidb/pull/26454) |      |
 | [#26214](https://github.com/pingcap/tidb/issues/26214)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#26473](https://github.com/pingcap/tidb/pull/26473) |      |
-| [#26227](https://github.com/pingcap/tidb/issues/26227)         |          | @qw4990                                                             |                                                      |      |
+| [#26227](https://github.com/pingcap/tidb/issues/26227)         | critical | @qw4990                                                             |                                                      |      |
 | [#26249](https://github.com/pingcap/tidb/issues/26249)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#26376](https://github.com/pingcap/tidb/issues/26376)         | major    | @qw4990                                                             |                                                      |      |
+| [#26376](https://github.com/pingcap/tidb/issues/26376)         | major    | @qw4990                                                             | [#26481](https://github.com/pingcap/tidb/pull/26481) |      |
 | [#26377](https://github.com/pingcap/tidb/issues/26377)         | minor    | <sub>@tiancaiamao</sub>                                             |                                                      |      |
+| [#26388](https://github.com/pingcap/tidb/issues/26388)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26439](https://github.com/pingcap/tidb/issues/26439)         | critical | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
 
 
@@ -200,13 +201,12 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24387](https://github.com/pingcap/tidb/issues/24387)         | moderate | @wzru                   | [#26259](https://github.com/pingcap/tidb/pull/26259) |      |
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                         |                                                      |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)         | moderate | @wzru                   |                                                      |      |
-| [#24756](https://github.com/pingcap/tidb/issues/24756)         |          | @XuHuaiyu               |                                                      |      |
 | [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123              | [#25647](https://github.com/pingcap/tidb/pull/25647) |      |
 | [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                         |                                                      |      |
 | [#24928](https://github.com/pingcap/tidb/issues/24928)&#x2757; | moderate |                         |                                                      |      |
 | [#24953](https://github.com/pingcap/tidb/issues/24953)         | moderate | @sylzd                  |                                                      |      |
 | [#24969](https://github.com/pingcap/tidb/issues/24969)&#x2757; | moderate |                         |                                                      |      |
-| [#24997](https://github.com/pingcap/tidb/issues/24997)         |          | @XuHuaiyu               |                                                      |      |
+| [#24997](https://github.com/pingcap/tidb/issues/24997)         | critical | @XuHuaiyu               |                                                      |      |
 | [#25053](https://github.com/pingcap/tidb/issues/25053)         | moderate | @wzru                   |                                                      |      |
 | [#25193](https://github.com/pingcap/tidb/issues/25193)         | moderate | @wzru                   |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                         |                                                      |      |
@@ -324,6 +324,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-22T10:15:11-00:00
+updated at 2021-07-22T11:11:53-00:00
 
 

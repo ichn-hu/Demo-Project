@@ -85,6 +85,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25066](https://github.com/pingcap/tidb/issues/25066)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#25086](https://github.com/pingcap/tidb/issues/25086)&#x2757; | minor    |                                                                     |                                                      |      |
 | [#25144](https://github.com/pingcap/tidb/issues/25144)         | major    | @rebelice                                                           |                                                      |      |
+| [#25188](https://github.com/pingcap/tidb/issues/25188)         | major    | @winoros                                                            |                                                      |      |
 | [#25239](https://github.com/pingcap/tidb/issues/25239)         | moderate | @rebelice                                                           |                                                      |      |
 | [#25270](https://github.com/pingcap/tidb/issues/25270)         | major    | @winoros                                                            |                                                      |      |
 | [#25291](https://github.com/pingcap/tidb/issues/25291)&#x2757; | major    |                                                                     |                                                      |      |
@@ -320,6 +321,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-23T08:14:48-00:00
+updated at 2021-07-23T09:13:25-00:00
 
 

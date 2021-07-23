@@ -120,10 +120,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26077](https://github.com/pingcap/tidb/issues/26077)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26166](https://github.com/pingcap/tidb/issues/26166)         | major    | @bb7133</br>@mjonss                                                 |                                                      |      |
 | [#26212](https://github.com/pingcap/tidb/issues/26212)         | major    | <sub>@francis0407</sub>                                             | [#26454](https://github.com/pingcap/tidb/pull/26454) |      |
-| [#26214](https://github.com/pingcap/tidb/issues/26214)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#26473](https://github.com/pingcap/tidb/pull/26473) |      |
 | [#26227](https://github.com/pingcap/tidb/issues/26227)         | critical | @qw4990                                                             |                                                      |      |
 | [#26249](https://github.com/pingcap/tidb/issues/26249)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#26376](https://github.com/pingcap/tidb/issues/26376)         | major    | @qw4990                                                             | [#26481](https://github.com/pingcap/tidb/pull/26481) |      |
 | [#26377](https://github.com/pingcap/tidb/issues/26377)         | minor    | <sub>@tiancaiamao</sub>                                             |                                                      |      |
 | [#26388](https://github.com/pingcap/tidb/issues/26388)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26439](https://github.com/pingcap/tidb/issues/26439)         | critical | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
@@ -323,6 +321,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-23T02:29:27-00:00
+updated at 2021-07-23T03:14:05-00:00
 
 

@@ -101,10 +101,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25585](https://github.com/pingcap/tidb/issues/25585)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25600](https://github.com/pingcap/tidb/issues/25600)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25603](https://github.com/pingcap/tidb/issues/25603)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#25642](https://github.com/pingcap/tidb/issues/25642)         | major    | @qw4990                                                             |                                                      |      |
 | [#25646](https://github.com/pingcap/tidb/issues/25646)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25690](https://github.com/pingcap/tidb/issues/25690)&#x2757; | major    |                                                                     |                                                      |      |
-| [#25691](https://github.com/pingcap/tidb/issues/25691)         | major    | @qw4990                                                             |                                                      |      |
+| [#25691](https://github.com/pingcap/tidb/issues/25691)         | major    | @XuHuaiyu                                                           |                                                      |      |
 | [#25692](https://github.com/pingcap/tidb/issues/25692)         | major    | @winoros                                                            |                                                      |      |
 | [#25727](https://github.com/pingcap/tidb/issues/25727)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25729](https://github.com/pingcap/tidb/issues/25729)         | moderate | @zhuo-zhi                                                           | [#25826](https://github.com/pingcap/tidb/pull/25826) |      |
@@ -113,7 +112,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25842](https://github.com/pingcap/tidb/issues/25842)         | major    | @eurekaka</br><sub>@Reminiscent</sub>                               | [#26015](https://github.com/pingcap/tidb/pull/26015) |      |
 | [#25852](https://github.com/pingcap/tidb/issues/25852)         | moderate | @qw4990                                                             |                                                      |      |
 | [#25896](https://github.com/pingcap/tidb/issues/25896)         | major    | @qw4990                                                             |                                                      |      |
-| [#25898](https://github.com/pingcap/tidb/issues/25898)         | major    | @qw4990                                                             |                                                      |      |
+| [#25898](https://github.com/pingcap/tidb/issues/25898)         | major    | @XuHuaiyu                                                           |                                                      |      |
 | [#25929](https://github.com/pingcap/tidb/issues/25929)         | major    |                                                                     | [#25930](https://github.com/pingcap/tidb/pull/25930) |      |
 | [#26077](https://github.com/pingcap/tidb/issues/26077)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26166](https://github.com/pingcap/tidb/issues/26166)         | major    | @bb7133</br>@mjonss                                                 |                                                      |      |
@@ -325,6 +324,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-26T10:27:50-00:00
+updated at 2021-07-26T11:13:05-00:00
 
 

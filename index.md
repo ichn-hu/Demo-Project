@@ -123,11 +123,11 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26439](https://github.com/pingcap/tidb/issues/26439)         | critical | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
 | [#26507](https://github.com/pingcap/tidb/issues/26507)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26547](https://github.com/pingcap/tidb/issues/26547)         | critical | @winoros                                                            |                                                      |      |
-| [#26551](https://github.com/pingcap/tidb/issues/26551)&#x2757; | major    |                                                                     |                                                      |      |
+| [#26551](https://github.com/pingcap/tidb/issues/26551)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26569](https://github.com/pingcap/tidb/issues/26569)         | critical | @XuHuaiyu                                                           |                                                      |      |
 | [#26576](https://github.com/pingcap/tidb/issues/26576)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#26638](https://github.com/pingcap/tidb/issues/26638)&#x2757; | major    |                                                                     |                                                      |      |
-| [#26641](https://github.com/pingcap/tidb/issues/26641)&#x2757; | major    |                                                                     |                                                      |      |
+| [#26641](https://github.com/pingcap/tidb/issues/26641)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26662](https://github.com/pingcap/tidb/issues/26662)         | critical | @wshwsh12                                                           | [#26663](https://github.com/pingcap/tidb/pull/26663) |      |
 
 
@@ -327,6 +327,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-27T14:11:47-00:00
+updated at 2021-07-27T15:15:28-00:00
 
 

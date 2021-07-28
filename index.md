@@ -124,10 +124,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26507](https://github.com/pingcap/tidb/issues/26507)         | major    | @winoros                                                            |                                                      |      |
 | [#26547](https://github.com/pingcap/tidb/issues/26547)         | critical | @winoros                                                            |                                                      |      |
 | [#26551](https://github.com/pingcap/tidb/issues/26551)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
-| [#26569](https://github.com/pingcap/tidb/issues/26569)         | critical | @XuHuaiyu                                                           |                                                      |      |
+| [#26569](https://github.com/pingcap/tidb/issues/26569)         | critical | @winoros                                                            |                                                      |      |
 | [#26576](https://github.com/pingcap/tidb/issues/26576)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#26638](https://github.com/pingcap/tidb/issues/26638)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
-| [#26641](https://github.com/pingcap/tidb/issues/26641)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -326,6 +325,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-28T02:34:24-00:00
+updated at 2021-07-28T03:14:21-00:00
 
 

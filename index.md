@@ -116,7 +116,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25929](https://github.com/pingcap/tidb/issues/25929)         | major    |                                                                     | [#25930](https://github.com/pingcap/tidb/pull/25930) |      |
 | [#26077](https://github.com/pingcap/tidb/issues/26077)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26166](https://github.com/pingcap/tidb/issues/26166)         | major    | @bb7133</br>@mjonss                                                 |                                                      |      |
-| [#26227](https://github.com/pingcap/tidb/issues/26227)         | critical | @qw4990                                                             |                                                      |      |
 | [#26249](https://github.com/pingcap/tidb/issues/26249)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#26377](https://github.com/pingcap/tidb/issues/26377)         | minor    | <sub>@tiancaiamao</sub>                                             |                                                      |      |
 | [#26388](https://github.com/pingcap/tidb/issues/26388)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
@@ -230,13 +229,12 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26384](https://github.com/pingcap/tidb/issues/26384)&#x2757; | moderate |                         |                                                      |      |
 | [#26400](https://github.com/pingcap/tidb/issues/26400)&#x2757; | major    |                         |                                                      |      |
 | [#26402](https://github.com/pingcap/tidb/issues/26402)&#x2757; | moderate |                         |                                                      |      |
-| [#26407](https://github.com/pingcap/tidb/issues/26407)&#x2757; | major    |                         |                                                      |      |
 | [#26434](https://github.com/pingcap/tidb/issues/26434)&#x2757; | major    |                         |                                                      |      |
 | [#26447](https://github.com/pingcap/tidb/issues/26447)&#x2757; | moderate |                         |                                                      |      |
 | [#26461](https://github.com/pingcap/tidb/issues/26461)         | major    | @XuHuaiyu               |                                                      |      |
 | [#26496](https://github.com/pingcap/tidb/issues/26496)         | critical | @lzmhhh123              |                                                      |      |
 | [#26554](https://github.com/pingcap/tidb/issues/26554)&#x2757; | major    |                         |                                                      |      |
-| [#26648](https://github.com/pingcap/tidb/issues/26648)         | major    |                         | [#26649](https://github.com/pingcap/tidb/pull/26649) |      |
+| [#26648](https://github.com/pingcap/tidb/issues/26648)         | major    | @AilinKid               | [#26649](https://github.com/pingcap/tidb/pull/26649) |      |
 | [#26703](https://github.com/pingcap/tidb/issues/26703)&#x2757; | major    |                         |                                                      |      |
 
 
@@ -325,6 +323,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-29T06:15:58-00:00
+updated at 2021-07-29T07:13:10-00:00
 
 

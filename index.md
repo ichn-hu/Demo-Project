@@ -290,6 +290,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26404](https://github.com/pingcap/tidb/issues/26404)         | moderate | @cfzjywxk                             |                                                      |      |
 | [#26548](https://github.com/pingcap/tidb/issues/26548)&#x2757; | minor    |                                       |                                                      |      |
 | [#26688](https://github.com/pingcap/tidb/issues/26688)&#x2757; | major    |                                       |                                                      |      |
+| [#26716](https://github.com/pingcap/tidb/issues/26716)         |          | <sub>@youjiali1995</sub>              |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -325,6 +326,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-29T02:30:15-00:00
+updated at 2021-07-29T03:14:22-00:00
 
 

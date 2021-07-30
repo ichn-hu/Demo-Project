@@ -129,6 +129,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26727](https://github.com/pingcap/tidb/issues/26727)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26739](https://github.com/pingcap/tidb/issues/26739)&#x2757; | critical |                                                                     |                                                      |      |
 | [#26754](https://github.com/pingcap/tidb/issues/26754)&#x2757; | major    |                                                                     |                                                      |      |
+| [#26758](https://github.com/pingcap/tidb/issues/26758)         | critical | @yudongusa                                                          |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -329,6 +330,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-30T10:13:57-00:00
+updated at 2021-07-30T11:10:58-00:00
 
 

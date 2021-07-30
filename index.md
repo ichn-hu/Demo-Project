@@ -127,6 +127,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26697](https://github.com/pingcap/tidb/issues/26697)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#26698](https://github.com/pingcap/tidb/pull/26698) |      |
 | [#26719](https://github.com/pingcap/tidb/issues/26719)         | major    | @qw4990                                                             |                                                      |      |
 | [#26727](https://github.com/pingcap/tidb/issues/26727)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
+| [#26754](https://github.com/pingcap/tidb/issues/26754)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -327,6 +328,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-30T08:14:35-00:00
+updated at 2021-07-30T09:13:17-00:00
 
 

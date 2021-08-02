@@ -126,7 +126,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26638](https://github.com/pingcap/tidb/issues/26638)         | major    | <sub>@Reminiscent</sub>                                             | [#26713](https://github.com/pingcap/tidb/pull/26713) |      |
 | [#26697](https://github.com/pingcap/tidb/issues/26697)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#26698](https://github.com/pingcap/tidb/pull/26698) |      |
 | [#26719](https://github.com/pingcap/tidb/issues/26719)         | major    | @qw4990                                                             | [#26755](https://github.com/pingcap/tidb/pull/26755) |      |
-| [#26727](https://github.com/pingcap/tidb/issues/26727)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26739](https://github.com/pingcap/tidb/issues/26739)         | critical | @qw4990                                                             |                                                      |      |
 | [#26754](https://github.com/pingcap/tidb/issues/26754)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26758](https://github.com/pingcap/tidb/issues/26758)         | critical | @yudongusa                                                          |                                                      |      |
@@ -246,7 +245,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26554](https://github.com/pingcap/tidb/issues/26554)&#x2757; | major    |                         |                                                      |      |
 | [#26648](https://github.com/pingcap/tidb/issues/26648)         | major    | @AilinKid               | [#26649](https://github.com/pingcap/tidb/pull/26649) |      |
 | [#26703](https://github.com/pingcap/tidb/issues/26703)&#x2757; | major    |                         |                                                      |      |
-| [#26762](https://github.com/pingcap/tidb/issues/26762)&#x2757; | critical |                         |                                                      |      |
+| [#26762](https://github.com/pingcap/tidb/issues/26762)         | critical | <sub>@guo-shaoge</sub>  |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -336,6 +335,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-02T02:26:09-00:00
+updated at 2021-08-02T03:13:55-00:00
 
 

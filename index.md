@@ -301,6 +301,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26552](https://github.com/pingcap/tidb/issues/26552)         | major    | @lysu                                 |                                                      |      |
 | [#26688](https://github.com/pingcap/tidb/issues/26688)         | major    | @morgo                                |                                                      |      |
 | [#26716](https://github.com/pingcap/tidb/issues/26716)         | major    | <sub>@youjiali1995</sub>              |                                                      |      |
+| [#26801](https://github.com/pingcap/tidb/issues/26801)&#x2757; | moderate |                                       |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -336,6 +337,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-02T11:10:59-00:00
+updated at 2021-08-02T12:21:11-00:00
 
 

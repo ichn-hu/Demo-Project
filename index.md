@@ -131,7 +131,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26758](https://github.com/pingcap/tidb/issues/26758)         | critical | @eurekaka                                                           |                                                      |      |
 | [#26764](https://github.com/pingcap/tidb/issues/26764)         | moderate | @winoros                                                            |                                                      |      |
 | [#26779](https://github.com/pingcap/tidb/issues/26779)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
-| [#26782](https://github.com/pingcap/tidb/issues/26782)&#x2757; | critical |                                                                     |                                                      |      |
+| [#26782](https://github.com/pingcap/tidb/issues/26782)         | critical | @eurekaka                                                           |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -246,7 +246,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26554](https://github.com/pingcap/tidb/issues/26554)&#x2757; | major    |                         |                                                      |      |
 | [#26648](https://github.com/pingcap/tidb/issues/26648)         | major    | @AilinKid               | [#26649](https://github.com/pingcap/tidb/pull/26649) |      |
 | [#26703](https://github.com/pingcap/tidb/issues/26703)&#x2757; | major    |                         |                                                      |      |
-| [#26762](https://github.com/pingcap/tidb/issues/26762)         | critical | <sub>@guo-shaoge</sub>  |                                                      |      |
+| [#26762](https://github.com/pingcap/tidb/issues/26762)         | critical | <sub>@guo-shaoge</sub>  | [#26784](https://github.com/pingcap/tidb/pull/26784) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -336,6 +336,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-02T05:12:02-00:00
+updated at 2021-08-02T06:15:47-00:00
 
 

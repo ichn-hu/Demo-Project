@@ -130,7 +130,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26739](https://github.com/pingcap/tidb/issues/26739)         | critical | @qw4990                                                             |                                                      |      |
 | [#26754](https://github.com/pingcap/tidb/issues/26754)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26758](https://github.com/pingcap/tidb/issues/26758)         | critical | @yudongusa                                                          |                                                      |      |
-| [#26764](https://github.com/pingcap/tidb/issues/26764)         |          | @yudongusa                                                          |                                                      |      |
+| [#26764](https://github.com/pingcap/tidb/issues/26764)         | moderate | @yudongusa                                                          |                                                      |      |
+| [#26779](https://github.com/pingcap/tidb/issues/26779)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -335,6 +336,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-02T00:39:08-00:00
+updated at 2021-08-02T01:56:48-00:00
 
 

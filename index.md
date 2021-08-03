@@ -131,7 +131,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26764](https://github.com/pingcap/tidb/issues/26764)         | moderate | @winoros                                                            |                                                      |      |
 | [#26779](https://github.com/pingcap/tidb/issues/26779)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#26782](https://github.com/pingcap/tidb/issues/26782)         | critical | @eurekaka                                                           |                                                      |      |
-| [#26796](https://github.com/pingcap/tidb/issues/26796)         | major    | @qw4990                                                             | [#26839](https://github.com/pingcap/tidb/pull/26839) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -204,7 +203,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24271](https://github.com/pingcap/tidb/issues/24271)&#x2757; | minor    |                         |                                                      |      |
 | [#24284](https://github.com/pingcap/tidb/issues/24284)&#x2757; | minor    |                         |                                                      |      |
 | [#24319](https://github.com/pingcap/tidb/issues/24319)&#x2757; | minor    |                         |                                                      |      |
-| [#24387](https://github.com/pingcap/tidb/issues/24387)         | moderate | @wzru                   | [#26259](https://github.com/pingcap/tidb/pull/26259) |      |
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                         |                                                      |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)         | moderate | @wzru                   |                                                      |      |
 | [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123              | [#25647](https://github.com/pingcap/tidb/pull/25647) |      |
@@ -250,6 +248,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26762](https://github.com/pingcap/tidb/issues/26762)         | critical | <sub>@guo-shaoge</sub>  | [#26784](https://github.com/pingcap/tidb/pull/26784) |      |
 | [#26790](https://github.com/pingcap/tidb/issues/26790)&#x2757; | major    |                         |                                                      |      |
 | [#26803](https://github.com/pingcap/tidb/issues/26803)         | critical |                         | [#26829](https://github.com/pingcap/tidb/pull/26829) |      |
+| [#26806](https://github.com/pingcap/tidb/issues/26806)&#x2757; | major    |                         |                                                      |      |
 | [#26807](https://github.com/pingcap/tidb/issues/26807)&#x2757; | major    |                         |                                                      |      |
 
 
@@ -306,6 +305,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26688](https://github.com/pingcap/tidb/issues/26688)         | major    | @morgo                                |                                                      |      |
 | [#26716](https://github.com/pingcap/tidb/issues/26716)         | major    | <sub>@youjiali1995</sub>              |                                                      |      |
 | [#26801](https://github.com/pingcap/tidb/issues/26801)&#x2757; | moderate |                                       |                                                      |      |
+| [#26810](https://github.com/pingcap/tidb/issues/26810)&#x2757; | moderate |                                       |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -341,6 +341,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-03T07:11:52-00:00
+updated at 2021-08-03T08:14:55-00:00
 
 

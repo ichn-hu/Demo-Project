@@ -123,14 +123,13 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26569](https://github.com/pingcap/tidb/issues/26569)         | critical | @winoros                                                            |                                                      |      |
 | [#26576](https://github.com/pingcap/tidb/issues/26576)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#26638](https://github.com/pingcap/tidb/issues/26638)         | major    | <sub>@Reminiscent</sub>                                             | [#26713](https://github.com/pingcap/tidb/pull/26713) |      |
-| [#26719](https://github.com/pingcap/tidb/issues/26719)         | critical | @qw4990                                                             | [#26876](https://github.com/pingcap/tidb/pull/26876) |      |
 | [#26739](https://github.com/pingcap/tidb/issues/26739)         | major    | @qw4990                                                             |                                                      |      |
 | [#26754](https://github.com/pingcap/tidb/issues/26754)         | major    | @qw4990                                                             |                                                      |      |
 | [#26758](https://github.com/pingcap/tidb/issues/26758)         | critical | @eurekaka                                                           |                                                      |      |
 | [#26764](https://github.com/pingcap/tidb/issues/26764)         | moderate | @winoros                                                            |                                                      |      |
 | [#26779](https://github.com/pingcap/tidb/issues/26779)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#26782](https://github.com/pingcap/tidb/issues/26782)         | critical | @eurekaka                                                           |                                                      |      |
-| [#26873](https://github.com/pingcap/tidb/issues/26873)&#x2757; |          |                                                                     |                                                      |      |
+| [#26873](https://github.com/pingcap/tidb/issues/26873)         |          | <sub>@Reminiscent</sub>                                             |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -248,6 +247,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26790](https://github.com/pingcap/tidb/issues/26790)&#x2757; | major    |                         |                                                      |      |
 | [#26806](https://github.com/pingcap/tidb/issues/26806)&#x2757; | major    |                         |                                                      |      |
 | [#26807](https://github.com/pingcap/tidb/issues/26807)&#x2757; | major    |                         |                                                      |      |
+| [#26885](https://github.com/pingcap/tidb/issues/26885)&#x2757; |          |                         |                                                      |      |
+| [#26886](https://github.com/pingcap/tidb/issues/26886)&#x2757; |          |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -342,6 +343,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-04T06:15:51-00:00
+updated at 2021-08-04T07:11:54-00:00
 
 

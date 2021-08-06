@@ -129,6 +129,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26934](https://github.com/pingcap/tidb/issues/26934)&#x2757; | major    |                                                                     |                                                      |      |
 | [#26944](https://github.com/pingcap/tidb/issues/26944)&#x2757; |          |                                                                     |                                                      |      |
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
+| [#26950](https://github.com/pingcap/tidb/issues/26950)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -343,6 +344,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-06T05:11:27-00:00
+updated at 2021-08-06T06:16:50-00:00
 
 

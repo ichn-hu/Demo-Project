@@ -130,9 +130,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26944](https://github.com/pingcap/tidb/issues/26944)&#x2757; |          |                                                                     |                                                      |      |
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)&#x2757; | major    |                                                                     |                                                      |      |
-| [#27012](https://github.com/pingcap/tidb/issues/27012)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
-| [#27017](https://github.com/pingcap/tidb/issues/27017)&#x2757; | major    |                                                                     |                                                      |      |
-| [#27018](https://github.com/pingcap/tidb/issues/27018)&#x2757; | major    |                                                                     |                                                      |      |
+| [#27012](https://github.com/pingcap/tidb/issues/27012)         | major    | @qw4990                                                             | [#27025](https://github.com/pingcap/tidb/pull/27025) |      |
+| [#27017](https://github.com/pingcap/tidb/issues/27017)         | major    | @qw4990                                                             |                                                      |      |
+| [#27018](https://github.com/pingcap/tidb/issues/27018)         | major    | @qw4990                                                             |                                                      |      |
 | [#27024](https://github.com/pingcap/tidb/issues/27024)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 
 
@@ -349,6 +349,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-09T08:14:56-00:00
+updated at 2021-08-09T09:13:44-00:00
 
 

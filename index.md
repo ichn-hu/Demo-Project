@@ -130,9 +130,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26944](https://github.com/pingcap/tidb/issues/26944)&#x2757; |          |                                                                     |                                                      |      |
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)&#x2757; | major    |                                                                     |                                                      |      |
-| [#27024](https://github.com/pingcap/tidb/issues/27024)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
+| [#27024](https://github.com/pingcap/tidb/issues/27024)         |          | <sub><sup>@time-and-fate</sup></sub>                                | [#27033](https://github.com/pingcap/tidb/pull/27033) |      |
 | [#27030](https://github.com/pingcap/tidb/issues/27030)&#x2757; | major    |                                                                     |                                                      |      |
-| [#27031](https://github.com/pingcap/tidb/issues/27031)&#x2757; | major    |                                                                     |                                                      |      |
+| [#27031](https://github.com/pingcap/tidb/issues/27031)         | major    |                                                                     | [#27032](https://github.com/pingcap/tidb/pull/27032) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -348,6 +348,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-09T10:15:12-00:00
+updated at 2021-08-09T11:10:48-00:00
 
 

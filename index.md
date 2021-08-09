@@ -242,14 +242,15 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26485](https://github.com/pingcap/tidb/issues/26485)&#x2757; | moderate |                         |                                                      |      |
 | [#26496](https://github.com/pingcap/tidb/issues/26496)         | critical | @lzmhhh123              |                                                      |      |
 | [#26539](https://github.com/pingcap/tidb/issues/26539)         | major    | @lzmhhh123              | [#26892](https://github.com/pingcap/tidb/pull/26892) |      |
-| [#26554](https://github.com/pingcap/tidb/issues/26554)&#x2757; | major    |                         |                                                      |      |
+| [#26554](https://github.com/pingcap/tidb/issues/26554)         | major    | @wshwsh12               |                                                      |      |
 | [#26703](https://github.com/pingcap/tidb/issues/26703)&#x2757; | major    |                         |                                                      |      |
 | [#26790](https://github.com/pingcap/tidb/issues/26790)&#x2757; | major    |                         |                                                      |      |
 | [#26806](https://github.com/pingcap/tidb/issues/26806)&#x2757; | major    |                         |                                                      |      |
-| [#26807](https://github.com/pingcap/tidb/issues/26807)&#x2757; | major    |                         |                                                      |      |
+| [#26807](https://github.com/pingcap/tidb/issues/26807)         | major    | @lysu                   |                                                      |      |
 | [#26885](https://github.com/pingcap/tidb/issues/26885)&#x2757; | major    |                         |                                                      |      |
 | [#26886](https://github.com/pingcap/tidb/issues/26886)         | major    | @Yisaer                 |                                                      |      |
 | [#26887](https://github.com/pingcap/tidb/issues/26887)         | moderate |                         | [#26888](https://github.com/pingcap/tidb/pull/26888) |      |
+| [#26977](https://github.com/pingcap/tidb/issues/26977)&#x2757; | major    |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -295,7 +296,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 | [#25905](https://github.com/pingcap/tidb/pull/25905) |      |
 | [#25846](https://github.com/pingcap/tidb/issues/25846)         | major    |                                       | [#25859](https://github.com/pingcap/tidb/pull/25859) |      |
 | [#25897](https://github.com/pingcap/tidb/issues/25897)         | major    | @nolouch                              |                                                      |      |
-| [#25986](https://github.com/pingcap/tidb/issues/25986)         | major    | @lysu                                 |                                                      |      |
+| [#25986](https://github.com/pingcap/tidb/issues/25986)         | major    | @qw4990                               |                                                      |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
 | [#26404](https://github.com/pingcap/tidb/issues/26404)         | moderate | @cfzjywxk                             |                                                      |      |
@@ -345,6 +346,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-09T02:24:06-00:00
+updated at 2021-08-09T03:13:57-00:00
 
 

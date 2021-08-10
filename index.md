@@ -131,7 +131,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                                                                               |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)         | major    | @qw4990                                                             |                                                                                                               |      |
 | [#27024](https://github.com/pingcap/tidb/issues/27024)         | major    | <sub><sup>@time-and-fate</sup></sub>                                | [#27033](https://github.com/pingcap/tidb/pull/27033)                                                          |      |
-| [#27030](https://github.com/pingcap/tidb/issues/27030)         | major    | @qw4990                                                             | [#27052](https://github.com/pingcap/tidb/pull/27052)                                                          |      |
+| [#27064](https://github.com/pingcap/tidb/issues/27064)&#x2757; | major    |                                                                     |                                                                                                               |      |
+| [#27070](https://github.com/pingcap/tidb/issues/27070)&#x2757; | minor    |                                                                     |                                                                                                               |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -251,6 +252,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26887](https://github.com/pingcap/tidb/issues/26887)         | moderate |                         | [#26888](https://github.com/pingcap/tidb/pull/26888) |      |
 | [#26977](https://github.com/pingcap/tidb/issues/26977)&#x2757; | major    |                         |                                                      |      |
 | [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  |                                                      |      |
+| [#27072](https://github.com/pingcap/tidb/issues/27072)&#x2757; | major    |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -313,7 +315,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26842](https://github.com/pingcap/tidb/issues/26842)         | minor    |                                       | [#26845](https://github.com/pingcap/tidb/pull/26845) |      |
 | [#26973](https://github.com/pingcap/tidb/issues/26973)&#x2757; | moderate |                                       |                                                      |      |
 | [#26999](https://github.com/pingcap/tidb/issues/26999)&#x2757; | major    |                                       |                                                      |      |
-| [#27058](https://github.com/pingcap/tidb/issues/27058)&#x2757; |          |                                       |                                                      |      |
+| [#27058](https://github.com/pingcap/tidb/issues/27058)&#x2757; | major    |                                       |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -349,6 +351,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-10T08:17:03-00:00
+updated at 2021-08-10T09:13:41-00:00
 
 

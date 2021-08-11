@@ -254,7 +254,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26886](https://github.com/pingcap/tidb/issues/26886)         | major    | @Yisaer                 |                                                      |      |
 | [#26887](https://github.com/pingcap/tidb/issues/26887)         | moderate |                         | [#26888](https://github.com/pingcap/tidb/pull/26888) |      |
 | [#26977](https://github.com/pingcap/tidb/issues/26977)         | major    |                         | [#27122](https://github.com/pingcap/tidb/pull/27122) |      |
-| [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  |                                                      |      |
+| [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  | [#27128](https://github.com/pingcap/tidb/pull/27128) |      |
 | [#27078](https://github.com/pingcap/tidb/issues/27078)&#x2757; | major    |                         |                                                      |      |
 
 
@@ -353,6 +353,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-11T12:19:10-00:00
+updated at 2021-08-11T13:19:42-00:00
 
 

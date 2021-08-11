@@ -126,10 +126,10 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26873](https://github.com/pingcap/tidb/issues/26873)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#26887](https://github.com/pingcap/tidb/issues/26887)         | moderate |                                                                     | [#26888](https://github.com/pingcap/tidb/pull/26888) |      |
 | [#26923](https://github.com/pingcap/tidb/issues/26923)         | major    | <sub>@Reminiscent</sub>                                             | [#26949](https://github.com/pingcap/tidb/pull/26949) |      |
-| [#26934](https://github.com/pingcap/tidb/issues/26934)         | major    | @eurekaka                                                           |                                                      |      |
+| [#26934](https://github.com/pingcap/tidb/issues/26934)         | major    | @eurekaka                                                           | [#27109](https://github.com/pingcap/tidb/pull/27109) |      |
 | [#26944](https://github.com/pingcap/tidb/issues/26944)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
-| [#26950](https://github.com/pingcap/tidb/issues/26950)         | major    | @qw4990                                                             |                                                      |      |
+| [#26950](https://github.com/pingcap/tidb/issues/26950)         | moderate | @qw4990                                                             |                                                      |      |
 | [#27024](https://github.com/pingcap/tidb/issues/27024)         | major    | <sub><sup>@time-and-fate</sup></sub>                                | [#27033](https://github.com/pingcap/tidb/pull/27033) |      |
 | [#27064](https://github.com/pingcap/tidb/issues/27064)         | critical | <sub>@Reminiscent</sub>                                             |                                                      |      |
 | [#27070](https://github.com/pingcap/tidb/issues/27070)&#x2757; | minor    |                                                                     |                                                      |      |
@@ -352,6 +352,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-11T07:17:03-00:00
+updated at 2021-08-11T08:14:18-00:00
 
 

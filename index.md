@@ -131,7 +131,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                                                                               |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)         | major    | @qw4990                                                             |                                                                                                               |      |
 | [#27024](https://github.com/pingcap/tidb/issues/27024)         | major    | <sub><sup>@time-and-fate</sup></sub>                                | [#27033](https://github.com/pingcap/tidb/pull/27033)                                                          |      |
-| [#27064](https://github.com/pingcap/tidb/issues/27064)&#x2757; | major    |                                                                     |                                                                                                               |      |
+| [#27064](https://github.com/pingcap/tidb/issues/27064)         | major    | <sub>@Reminiscent</sub>                                             |                                                                                                               |      |
 | [#27070](https://github.com/pingcap/tidb/issues/27070)&#x2757; | minor    |                                                                     |                                                                                                               |      |
 | [#27083](https://github.com/pingcap/tidb/issues/27083)         |          | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                                                                               |      |
 
@@ -352,6 +352,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-11T00:42:48-00:00
+updated at 2021-08-11T01:54:56-00:00
 
 

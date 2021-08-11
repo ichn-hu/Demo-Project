@@ -134,6 +134,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27064](https://github.com/pingcap/tidb/issues/27064)         | critical | <sub>@Reminiscent</sub>                                             |                                                                                                               |      |
 | [#27070](https://github.com/pingcap/tidb/issues/27070)&#x2757; | minor    |                                                                     |                                                                                                               |      |
 | [#27083](https://github.com/pingcap/tidb/issues/27083)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                                                                               |      |
+| [#27093](https://github.com/pingcap/tidb/issues/27093)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                                                                               |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -352,6 +353,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-11T03:14:38-00:00
+updated at 2021-08-11T04:15:58-00:00
 
 

@@ -131,13 +131,13 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)         | moderate | @qw4990                                                             |                                                      |      |
 | [#27024](https://github.com/pingcap/tidb/issues/27024)         | major    | <sub><sup>@time-and-fate</sup></sub>                                | [#27033](https://github.com/pingcap/tidb/pull/27033) |      |
-| [#27070](https://github.com/pingcap/tidb/issues/27070)&#x2757; | minor    |                                                                     |                                                      |      |
+| [#27070](https://github.com/pingcap/tidb/issues/27070)         | minor    | @qw4990                                                             |                                                      |      |
 | [#27083](https://github.com/pingcap/tidb/issues/27083)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#27161](https://github.com/pingcap/tidb/pull/27161) |      |
 | [#27089](https://github.com/pingcap/tidb/issues/27089)&#x2757; | major    |                                                                     |                                                      |      |
 | [#27093](https://github.com/pingcap/tidb/issues/27093)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#27106](https://github.com/pingcap/tidb/issues/27106)&#x2757; | critical |                                                                     |                                                      |      |
-| [#27130](https://github.com/pingcap/tidb/issues/27130)&#x2757; | critical |                                                                     |                                                      |      |
-| [#27147](https://github.com/pingcap/tidb/issues/27147)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#27130](https://github.com/pingcap/tidb/issues/27130)         | critical | @rebelice                                                           |                                                      |      |
+| [#27147](https://github.com/pingcap/tidb/issues/27147)         | moderate | @winoros                                                            |                                                      |      |
 | [#27159](https://github.com/pingcap/tidb/issues/27159)         | critical | <sub>@wjhuang2016</sub>                                             | [#27170](https://github.com/pingcap/tidb/pull/27170) |      |
 | [#27166](https://github.com/pingcap/tidb/issues/27166)&#x2757; | major    |                                                                     |                                                      |      |
 
@@ -357,6 +357,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-12T16:20:11-00:00
+updated at 2021-08-12T17:19:39-00:00
 
 

@@ -135,7 +135,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27083](https://github.com/pingcap/tidb/issues/27083)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             | [#27161](https://github.com/pingcap/tidb/pull/27161) |      |
 | [#27089](https://github.com/pingcap/tidb/issues/27089)&#x2757; | major    |                                                                     |                                                      |      |
 | [#27093](https://github.com/pingcap/tidb/issues/27093)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
-| [#27106](https://github.com/pingcap/tidb/issues/27106)&#x2757; | critical |                                                                     |                                                      |      |
+| [#27106](https://github.com/pingcap/tidb/issues/27106)         | critical | @rebelice                                                           |                                                      |      |
 | [#27130](https://github.com/pingcap/tidb/issues/27130)         | critical | @rebelice                                                           |                                                      |      |
 | [#27147](https://github.com/pingcap/tidb/issues/27147)         | moderate | @winoros                                                            |                                                      |      |
 | [#27159](https://github.com/pingcap/tidb/issues/27159)         | critical | <sub>@wjhuang2016</sub>                                             | [#27170](https://github.com/pingcap/tidb/pull/27170) |      |
@@ -357,6 +357,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-13T00:40:26-00:00
+updated at 2021-08-13T01:55:19-00:00
 
 

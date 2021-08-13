@@ -137,6 +137,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27106](https://github.com/pingcap/tidb/issues/27106)         | critical | @rebelice                                                           |                                                      |      |
 | [#27130](https://github.com/pingcap/tidb/issues/27130)         | critical | @rebelice                                                           |                                                      |      |
 | [#27147](https://github.com/pingcap/tidb/issues/27147)         | moderate | @winoros                                                            |                                                      |      |
+| [#27148](https://github.com/pingcap/tidb/issues/27148)         | major    |                                                                     | [#27176](https://github.com/pingcap/tidb/pull/27176) |      |
 | [#27159](https://github.com/pingcap/tidb/issues/27159)         | critical | <sub>@wjhuang2016</sub>                                             | [#27170](https://github.com/pingcap/tidb/pull/27170) |      |
 | [#27166](https://github.com/pingcap/tidb/issues/27166)&#x2757; | major    |                                                                     |                                                      |      |
 
@@ -258,6 +259,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26977](https://github.com/pingcap/tidb/issues/26977)         | major    |                         | [#27122](https://github.com/pingcap/tidb/pull/27122)                                                          |      |
 | [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  | [#27128](https://github.com/pingcap/tidb/pull/27128)                                                          |      |
 | [#27078](https://github.com/pingcap/tidb/issues/27078)&#x2757; | major    |                         |                                                                                                               |      |
+| [#27135](https://github.com/pingcap/tidb/issues/27135)&#x2757; | critical |                         |                                                                                                               |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -356,6 +358,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-13T07:12:18-00:00
+updated at 2021-08-13T08:14:24-00:00
 
 

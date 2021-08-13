@@ -323,7 +323,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27058](https://github.com/pingcap/tidb/issues/27058)&#x2757; | major    |                                       |                                                      |      |
 | [#27116](https://github.com/pingcap/tidb/issues/27116)         | major    | <sub>@longfangsong</sub>              |                                                      |      |
 | [#27156](https://github.com/pingcap/tidb/issues/27156)         | major    | @you06                                |                                                      |      |
-| [#27197](https://github.com/pingcap/tidb/issues/27197)         |          |                                       | [#27209](https://github.com/pingcap/tidb/pull/27209) |      |
+| [#27197](https://github.com/pingcap/tidb/issues/27197)         |          | <sub>@tiancaiamao</sub>               | [#27209](https://github.com/pingcap/tidb/pull/27209) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -359,6 +359,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-13T12:19:22-00:00
+updated at 2021-08-13T13:19:36-00:00
 
 

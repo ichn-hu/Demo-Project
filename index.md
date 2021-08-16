@@ -261,7 +261,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27078](https://github.com/pingcap/tidb/issues/27078)&#x2757; | major    |                         |                                                                                                               |      |
 | [#27135](https://github.com/pingcap/tidb/issues/27135)         | critical | @XuHuaiyu               |                                                                                                               |      |
 | [#27232](https://github.com/pingcap/tidb/issues/27232)&#x2757; | critical |                         |                                                                                                               |      |
-| [#27233](https://github.com/pingcap/tidb/issues/27233)&#x2757; | critical |                         |                                                                                                               |      |
+| [#27233](https://github.com/pingcap/tidb/issues/27233)         | critical | @wshwsh12               |                                                                                                               |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -307,7 +307,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
 | [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 | [#25905](https://github.com/pingcap/tidb/pull/25905) |      |
 | [#25846](https://github.com/pingcap/tidb/issues/25846)&#x2757; | major    |                                       |                                                      |      |
-| [#25897](https://github.com/pingcap/tidb/issues/25897)         | major    | @nolouch                              | [#27163](https://github.com/pingcap/tidb/pull/27163) |      |
 | [#25986](https://github.com/pingcap/tidb/issues/25986)         | major    | @qw4990                               |                                                      |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
@@ -323,7 +322,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26842](https://github.com/pingcap/tidb/issues/26842)         | minor    |                                       | [#26845](https://github.com/pingcap/tidb/pull/26845) |      |
 | [#26999](https://github.com/pingcap/tidb/issues/26999)&#x2757; | major    |                                       |                                                      |      |
 | [#27058](https://github.com/pingcap/tidb/issues/27058)&#x2757; | major    |                                       |                                                      |      |
-| [#27116](https://github.com/pingcap/tidb/issues/27116)         | major    | <sub>@longfangsong</sub>              |                                                      |      |
+| [#27116](https://github.com/pingcap/tidb/issues/27116)         | major    | <sub>@longfangsong</sub>              | [#27235](https://github.com/pingcap/tidb/pull/27235) |      |
 | [#27156](https://github.com/pingcap/tidb/issues/27156)         | major    | @you06                                |                                                      |      |
 | [#27197](https://github.com/pingcap/tidb/issues/27197)         |          | <sub>@tiancaiamao</sub>               | [#27209](https://github.com/pingcap/tidb/pull/27209) |      |
 
@@ -361,6 +360,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-16T03:14:21-00:00
+updated at 2021-08-16T04:16:25-00:00
 
 

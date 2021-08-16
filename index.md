@@ -141,6 +141,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27166](https://github.com/pingcap/tidb/issues/27166)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#27187](https://github.com/pingcap/tidb/issues/27187)&#x2757; | major    |                                                                     |                                                      |      |
 | [#27241](https://github.com/pingcap/tidb/issues/27241)         | moderate | @qw4990                                                             |                                                      |      |
+| [#27242](https://github.com/pingcap/tidb/issues/27242)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -261,7 +262,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  | [#27128](https://github.com/pingcap/tidb/pull/27128)                                                          |      |
 | [#27078](https://github.com/pingcap/tidb/issues/27078)&#x2757; | major    |                         |                                                                                                               |      |
 | [#27135](https://github.com/pingcap/tidb/issues/27135)         | critical | @XuHuaiyu               |                                                                                                               |      |
-| [#27232](https://github.com/pingcap/tidb/issues/27232)&#x2757; | critical |                         |                                                                                                               |      |
+| [#27232](https://github.com/pingcap/tidb/issues/27232)         | critical | @lzmhhh123              |                                                                                                               |      |
 | [#27233](https://github.com/pingcap/tidb/issues/27233)         | critical | @wshwsh12               |                                                                                                               |      |
 | [#27236](https://github.com/pingcap/tidb/issues/27236)&#x2757; | critical |                         |                                                                                                               |      |
 
@@ -362,6 +363,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-16T06:15:42-00:00
+updated at 2021-08-16T07:12:14-00:00
 
 

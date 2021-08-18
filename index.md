@@ -125,7 +125,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27249](https://github.com/pingcap/tidb/issues/27249)         | moderate | <sub><sup>@time-and-fate</sup></sub>                                |                                                                                                               |      |
 | [#27272](https://github.com/pingcap/tidb/issues/27272)         | major    |                                                                     | [#27275](https://github.com/pingcap/tidb/pull/27275)                                                          |      |
 | [#27313](https://github.com/pingcap/tidb/issues/27313)         | moderate | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                                                                               |      |
-| [#27328](https://github.com/pingcap/tidb/issues/27328)&#x2757; | major    |                                                                     |                                                                                                               |      |
+| [#27328](https://github.com/pingcap/tidb/issues/27328)         | major    | @winoros                                                            |                                                                                                               |      |
 | [#27346](https://github.com/pingcap/tidb/issues/27346)         | moderate | @qw4990                                                             |                                                                                                               |      |
 
 
@@ -347,6 +347,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-18T16:19:27-00:00
+updated at 2021-08-18T17:18:45-00:00
 
 

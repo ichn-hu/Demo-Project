@@ -113,7 +113,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26779](https://github.com/pingcap/tidb/issues/26779)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#26782](https://github.com/pingcap/tidb/issues/26782)         | critical | @eurekaka                                                           |                                                      |      |
 | [#26873](https://github.com/pingcap/tidb/issues/26873)         | major    | <sub>@Reminiscent</sub>                                             |                                                      |      |
-| [#26923](https://github.com/pingcap/tidb/issues/26923)         | major    | <sub>@Reminiscent</sub>                                             | [#26949](https://github.com/pingcap/tidb/pull/26949) |      |
 | [#26944](https://github.com/pingcap/tidb/issues/26944)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#26945](https://github.com/pingcap/tidb/issues/26945)         | major    | <sub>@hawkingrei</sub>                                              |                                                      |      |
 | [#26950](https://github.com/pingcap/tidb/issues/26950)         | moderate | @qw4990                                                             |                                                      |      |
@@ -348,6 +347,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-18T09:13:23-00:00
+updated at 2021-08-18T10:14:21-00:00
 
 

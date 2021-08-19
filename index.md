@@ -244,7 +244,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26886](https://github.com/pingcap/tidb/issues/26886)         | major    | @Yisaer                 |                                                                                                               |      |
 | [#26887](https://github.com/pingcap/tidb/issues/26887)         | moderate |                         | [#26888](https://github.com/pingcap/tidb/pull/26888)                                                          |      |
 | [#26977](https://github.com/pingcap/tidb/issues/26977)         | major    |                         | [#27122](https://github.com/pingcap/tidb/pull/27122)                                                          |      |
-| [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  | [#27128](https://github.com/pingcap/tidb/pull/27128)                                                          |      |
+| [#26993](https://github.com/pingcap/tidb/issues/26993)         | major    | <sub>@feitian124</sub>  | [#27128](https://github.com/pingcap/tidb/pull/27128)</br>[#27403](https://github.com/pingcap/tidb/pull/27403) |      |
 | [#27078](https://github.com/pingcap/tidb/issues/27078)&#x2757; | major    |                         |                                                                                                               |      |
 | [#27135](https://github.com/pingcap/tidb/issues/27135)         | major    | @XuHuaiyu               |                                                                                                               |      |
 | [#27232](https://github.com/pingcap/tidb/issues/27232)         | major    | @lzmhhh123              | [#27244](https://github.com/pingcap/tidb/pull/27244)                                                          |      |
@@ -347,6 +347,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-19T15:14:32-00:00
+updated at 2021-08-19T16:18:47-00:00
 
 

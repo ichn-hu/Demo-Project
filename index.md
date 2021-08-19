@@ -121,7 +121,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#27166](https://github.com/pingcap/tidb/issues/27166)         | moderate | @chrysan                                                            |                                                                                                               |      |
 | [#27187](https://github.com/pingcap/tidb/issues/27187)         | critical | @chrysan                                                            | [#27359](https://github.com/pingcap/tidb/pull/27359)                                                          |      |
 | [#27241](https://github.com/pingcap/tidb/issues/27241)         | moderate | @qw4990                                                             |                                                                                                               |      |
-| [#27242](https://github.com/pingcap/tidb/issues/27242)         | major    | @Yisaer                                                             | [#27304](https://github.com/pingcap/tidb/pull/27304)                                                          |      |
 | [#27249](https://github.com/pingcap/tidb/issues/27249)         | moderate | <sub><sup>@time-and-fate</sup></sub>                                |                                                                                                               |      |
 | [#27272](https://github.com/pingcap/tidb/issues/27272)         | major    |                                                                     | [#27275](https://github.com/pingcap/tidb/pull/27275)                                                          |      |
 | [#27313](https://github.com/pingcap/tidb/issues/27313)         | moderate | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                                                                               |      |
@@ -347,6 +346,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-08-19T03:15:10-00:00
+updated at 2021-08-19T04:17:15-00:00
 
 

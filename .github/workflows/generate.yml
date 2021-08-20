@@ -1,22 +1,22 @@
 name: Go
 
-on:
-  push:
-    branches: [ master ]
-    paths-ignore:
-    - 'db.sql'
-    - 'index.md'
+# on:
+#   push:
+#     branches: [ master ]
+#     paths-ignore:
+#     - 'db.sql'
+#     - 'index.md'
 
-  pull_request:
-    branches: [ master ]
-  workflow_dispatch:
-    inputs:
-      git-ref:
-        description: Git Ref (Optional)    
-        required: false
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron: '0 */1 * * *'
+#   pull_request:
+#     branches: [ master ]
+#   workflow_dispatch:
+#     inputs:
+#       git-ref:
+#         description: Git Ref (Optional)    
+#         required: false
+#   schedule:
+#     # * is a special character in YAML so you have to quote this string
+#     - cron: '0 */1 * * *'
 
 jobs:
 
